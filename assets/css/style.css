@@ -10,6 +10,36 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
-    color: #db4a4a
+    color: #db4a4a;
+    background-color: #f2f2f2;
 }
 
+/* headings and logo */
+
+h1, h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 200%;
+    color:#db4a4a;
+}
+
+#logo {
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin: 20px;
+    font-size: 200%;
+}
+
+#logo a {
+    text-decoration: none;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 20px;
+    font-size: 150%;
+}
+
+#navbar a {
+    text-decoration: none;
+    color:#db4a4a;
+}
