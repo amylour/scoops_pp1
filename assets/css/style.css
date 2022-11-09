@@ -14,6 +14,11 @@ body {
     background-color: #f2f2f2;
 }
 
+a {
+    text-decoration: none;
+    color:#db4a4a;
+}
+
 /* headings and logo */
 
 h1, h2 {
@@ -22,7 +27,7 @@ h1, h2 {
     color:#db4a4a;
 }
 
-/* #logo {
+ #logo {
     text-decoration: none;
     letter-spacing: 2px;
     margin: 20px;
@@ -42,4 +47,4 @@ h1, h2 {
 #navbar a {
     text-decoration: none;
     color:#db4a4a;
-} */
+} 
