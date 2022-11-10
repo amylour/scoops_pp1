@@ -30,7 +30,7 @@ h1, h2 {
 #logo {
     text-decoration: none;
     letter-spacing: 2px;
-    margin: 20px;
+    margin: 30px;
     font-size: 300%;
 }
 
@@ -38,10 +38,21 @@ h1, h2 {
     list-style-type: none;
     margin: 20px;
     font-size: 150%;
+    display: flex;
+    flex-direction: row;
+}
+
+#navbar li {
+    padding: 20px;
 }
 
 .active {
     border-bottom: 2.5px solid #db4a4a;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
