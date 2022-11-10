@@ -56,3 +56,19 @@ header {
     justify-content: space-between;
 }
 
+/* hero-image */
+
+#banner {
+    height:600px;
+    width: 90%;
+    background-color: #78f5d7;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+/* business ethos */
+
+#business-ethos {
+    padding: 20px;
+}
