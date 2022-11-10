@@ -27,15 +27,11 @@ h1, h2 {
     color:#db4a4a;
 }
 
- #logo {
+#logo {
     text-decoration: none;
     letter-spacing: 2px;
     margin: 20px;
-    font-size: 200%;
-}
-
-#logo a {
-    text-decoration: none;
+    font-size: 300%;
 }
 
 #navbar {
@@ -44,7 +40,8 @@ h1, h2 {
     font-size: 150%;
 }
 
-#navbar a {
-    text-decoration: none;
-    color:#db4a4a;
-} 
+.active {
+    border-bottom: 2.5px solid #db4a4a;
+}
+
+
