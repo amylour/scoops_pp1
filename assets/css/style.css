@@ -29,13 +29,14 @@ h1, h2 {
 #logo {
     text-decoration: none;
     letter-spacing: 2px;
-    margin: 30px;
+    margin: 23px;
+    padding-top: 5px;
     font-size: 300%;
 }
 
 #navbar {
     list-style-type: none;
-    margin: 20px;
+    margin: 13px;
     font-size: 150%;
     display: flex;
     flex-direction: row;
@@ -58,13 +59,30 @@ header {
 /* hero-image */
 
 #banner {
-    width: 100%;
+    width:1280px;
     height: 500px;
     overflow: hidden;
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 15px;
     position: relative;
+    border: 4px solid #78d5f7;
+    box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
+    border-radius: 15px;
     background: url('../images/pexels-jonathan-cooper-10175400.jpg') no-repeat center center;
+}
+
+#hero-image {
+    height: 600px;
+    background: repeating-linear-gradient(
+        45deg,
+        #f2f2f2 0px,
+        #f2f2f2 20px,
+        #78d5f7 20px,
+        #78d5f7 40px
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #tagline {
@@ -78,7 +96,7 @@ header {
     letter-spacing: 2px;
 }
 
-/* button */
+/* button 
 
 .button {
     background-color: #78f5d7;
@@ -93,7 +111,7 @@ header {
     padding: 20px;
     border-radius: 12px;
     margin: 0 auto;
-}
+}  */
 
 /* business ethos */
 
