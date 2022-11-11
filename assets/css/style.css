@@ -30,7 +30,7 @@ h1, h2 {
     text-decoration: none;
     letter-spacing: 2px;
     margin: 30px;
-    font-size: 220%;
+    font-size: 300%;
 }
 
 #navbar {
@@ -57,22 +57,13 @@ header {
 
 /* hero-image */
 
-/* #banner {
-    height:500px;
-    width: 85%;
-    background-color: #78f5d7;
-    border-radius: 15px;
-    margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 40px;
-}  */
-
 #banner {
     width: 100%;
     height: 500px;
     overflow: hidden;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 40px;
+    position: relative;
     background: url('../images/pexels-jonathan-cooper-10175400.jpg') no-repeat center center;
 }
 
@@ -85,6 +76,23 @@ header {
     text-align: center;
     padding: 10px;
     letter-spacing: 2px;
+}
+
+/* button */
+
+.button {
+    background-color: #78f5d7;
+    color: #f2f2f2;
+    font-family: 'Josefin sans', 'sans-serif';
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    height: 50px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 12px;
+    margin: 0 auto;
 }
 
 /* business ethos */
