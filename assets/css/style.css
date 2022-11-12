@@ -100,7 +100,7 @@ header {
 
 
 .button {
-    background-color: #78f5d7;
+    background-color: #78d5f7;
     color: #f2f2f2;
     font-family: 'Josefin sans', 'sans-serif';
     font-size: 24px;
@@ -121,7 +121,7 @@ header {
 }
 
 
-/* menu page */
+/* menu and contact page background */
 
 #background {
     background: repeating-linear-gradient(
@@ -136,4 +136,38 @@ header {
     height: 800px;
 }
 
-/* contact us */
+/* footer */
+
+#footer-group {
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    color:#db4a4a;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+#opening-times {
+    list-style-type: none;
+}
+
+#social-media {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#left-footer > h3 {
+    text-align: center;
+}
+
+#center-footer > h3 {
+    text-align: center;
+}
+
+#right-footer > h3 {
+    text-align: center;
+}
+
