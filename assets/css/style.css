@@ -119,3 +119,21 @@ header {
 #business-ethos {
     padding: 20px;
 }
+
+
+/* menu page */
+
+#background {
+    background: repeating-linear-gradient(
+        45deg,
+        #f2f2f2 0px,
+        #f2f2f2 20px,
+        #78d5f7 20px,
+        #78d5f7 40px
+    );
+    width: 100%;
+    overflow: hidden;
+    height: 800px;
+}
+
+/* contact us */
