@@ -29,14 +29,14 @@ h1, h2 {
 #logo {
     text-decoration: none;
     letter-spacing: 2px;
-    margin: 23px;
+    margin: 20px;
     padding-top: 5px;
     font-size: 300%;
 }
 
 #navbar {
     list-style-type: none;
-    margin: 13px;
+    margin: 10px;
     font-size: 150%;
     display: flex;
     flex-direction: row;
@@ -86,32 +86,33 @@ header {
 }
 
 #tagline {
-    font-family: Lato, 'sans-serif';
+    font-family: 'Josefin sans', 'sans-serif';
     text-transform: uppercase;
-    color: #012615;
+    color: #db4a4a;
     font-weight: bold;
     font-size: 175%;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
     letter-spacing: 2px;
 }
 
-/* button 
+
 
 .button {
     background-color: #78f5d7;
     color: #f2f2f2;
     font-family: 'Josefin sans', 'sans-serif';
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
     text-align: center;
     border: none;
-    height: 50px;
+    height: 80px;
     width: 200px;
-    padding: 20px;
+    padding: 15px;
     border-radius: 12px;
     margin: 0 auto;
-}  */
+} 
 
 /* business ethos */
 
