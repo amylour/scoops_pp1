@@ -26,9 +26,33 @@
         </nav>
     </header>
 
-    <div id="background">
-        <div id="contact-form"></div>
-    </div>
+    <section id="form-section">
+        <div id="stripes">
+            <div id="form-background">
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-us">
+                    <h2>Want more SCOOPS?</h2><br>
+                    <label for="fname">First Name</label>
+                    <input class="text-input" id="fname" name="first_name" type="text" required><br>
+
+                    <label for="lname">Last Name</label>
+                    <input class="text-input" id="lname" name="last_name" type="text" required><br>
+
+                    <label for="email">Email</label>
+                    <input class="email" id="email" name="email" type="email" required><br>
+
+                    <label for="newsletter">Newsletter - Want to know more about our delicious flavours and special offers?<br>Please check the box to receive our monthly email newsletter!</label>
+                    <input class="checkbox" id="newsletter" name="newsletter" type="checkbox" required><br>
+                    
+                    <label for="textarea">Want to have a say...?</label><br>
+                    <textarea name="message" id="textarea" class="message-field" rows="10" cols="30" placeholder="Please let us know if you have any queries or compliments!(we love those!)"></textarea><br>
+                    <input class="submit-button" type="submit" value="Send">
+
+                    <img src="assets/images/kyle-hinkson-H75RvPCvkik-unsplash.jpg" alt="hand holding delicious vanilla and chocolate ice cream scoops in a waffle cone" class="form-image">
+                </form>
+
+            </div>
+        </div>
+    </section>
 
 
 
