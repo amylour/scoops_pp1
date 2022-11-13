@@ -46,6 +46,10 @@ h1, h2 {
     padding: 20px;
 }
 
+#navbar a:hover {
+    border-bottom: 2.5px solid #db4a4a;
+}
+
 .active {
     border-bottom: 2.5px solid #db4a4a;
 }
@@ -66,7 +70,7 @@ header {
     margin-bottom: 15px;
     border: 4px solid #78d5f7;
     box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
-    border-radius: 15px;
+    /*border-radius: 15px; */
     background: url('../images/pexels-jonathan-cooper-10175400.jpg') no-repeat center center;
     position: absolute;
 }
@@ -88,7 +92,7 @@ header {
 #text-banner {
     height: 100px;
     width: 700px;
-    background-color: rgb(242, 242, 242, 0.8);
+    background-color: rgb(242, 242, 242, 1);
     border-radius: 15px;
 }
 
