@@ -85,7 +85,7 @@ header {
     border: 4px solid #78d5f7;
     box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
     /*border-radius: 15px;*/ 
-    background: url('../images/pexels-jonathan-cooper-10175400.jpg') no-repeat center center;
+    background: url('../images/icecreamcounter.jpg') no-repeat center center;
     position: absolute;
     /* animates zoom effect on index page */
     animation-name: banner-zoom;
@@ -138,9 +138,57 @@ header {
 /* business ethos */
 
 #business-ethos {
-    padding: 20px;
-    display: flex;
-    justify-content: space-around;
+    padding: 40px;
+}
+
+#about-us {
+    padding-top: 20px;
+    width: 33%;
+    font-size: 130%;
+}
+
+#about-us > img {
+    display: inline-block;
+    height: 350px;
+    width: 50%;
+    border-radius: 15px;
+}
+
+
+#ingredients {
+    padding-top: 20px;
+    width: 33%;
+    font-size: 130%;
+}
+
+#ingredients> img {
+    height: 350px;
+    width: 50%;
+    border-radius: 15px;
+}
+
+#eat {
+    padding-top: 20px;
+    width: 33%;
+    font-size: 130%;
+}
+
+#eat > img {
+    height: 350px;
+    width: 50%;
+    border-radius: 15px;
+}
+
+#community {
+    padding-top: 20px;
+    width: 33%;
+    font-size: 130%;
+}
+
+#community > img {
+    height: 350px;
+    width: 50%;
+    border-radius: 15px;
 }
 
 
