@@ -73,9 +73,24 @@ header {
     /*border-radius: 15px; */
     background: url('../images/pexels-jonathan-cooper-10175400.jpg') no-repeat center center;
     position: absolute;
+     /* animates zoom effect on loading page */
+     animation-name: banner-zoom;
+     animation-duration: 4s;
+     animation-fill-mode: forwards;
 }
 
-#hero-image {
+/* creates the level of zoom for hero image */
+@keyframes banner-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+    }
+}
+
+
+#banner-background {
     height: 600px;
     background: repeating-linear-gradient(
         45deg,
