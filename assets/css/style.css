@@ -215,9 +215,11 @@ header {
 }
 
 .form-image{
-    position:
+    margin-left: auto;
+    right: 20px;
     height: 500px;
     width: 30%;
+    border-radius: 15px;
 }
 
 
