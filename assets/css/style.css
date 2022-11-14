@@ -255,17 +255,52 @@ header {
     padding: 20px;  
 }
 
+#contact-us-right iframe {
+    padding-top: 15px;
+}
+
+#contact-us-right p {
+    font-size: 110%;
+    color: #012615;
+    text-align: center;
+}
+
 
 #contact-us-container h2 {
     font-size: 200%;
-    padding-bottom: 15px;
-
 }
 
 #fname, #lname, #email, #newsletter, #textarea {
-    margin: 15px;
+    margin: 10px;
+    font-size: 120%;
+    color: #012615;
 }
 
+#textarea {
+    font-family: 'Josefin sans', 'sans-serif';
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+
+.submit-button {
+    background-color: #78d5f7;
+    color: #db4a4a;
+    font-family: 'Josefin sans', 'sans-serif';
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    padding: 15px;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+
+.submit-button:hover {
+    color: #f2f2f2;
+}
 
 /* footer */
 
