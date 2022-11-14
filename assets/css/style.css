@@ -141,6 +141,7 @@ header {
     padding: 40px;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 #about-us {
