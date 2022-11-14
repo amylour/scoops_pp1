@@ -248,22 +248,22 @@ header {
 }
 
 #contact-us-left {
-    
+    padding: 20px;  
 }
 
 #contact-us-right {
-    
+    padding: 20px;  
 }
 
 
-#contact-us-right h2 {
-    font-size: 150%;
+#contact-us-container h2 {
+    font-size: 200%;
     padding-bottom: 15px;
 
 }
 
-#fname {
-    margin: 20px;
+#fname, #lname, #email, #newsletter, #textarea {
+    margin: 15px;
 }
 
 
