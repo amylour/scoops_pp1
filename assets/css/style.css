@@ -160,13 +160,6 @@ header {
     line-height: 1.5em;
 }
 
-#about-us > img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
-}
-
 
 #ingredients {
     padding-top: 20px;
@@ -175,13 +168,6 @@ header {
     width: 25%;
     text-align: justify;
     line-height: 1.5em;
-}
-
-#ingredients> img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
 }
 
 #eat {
@@ -193,28 +179,39 @@ header {
     line-height: 1.5em;
 }
 
+#ethos-images {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#image01, #image02, #image03 {
+    height: 300px;
+    width: 25%;
+}
+
+/*
+#about-us > img {
+    height: 400px;
+    width: 270px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+#ingredients> img {
+    height: 400px;
+    width: 270px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
 #eat > img {
     height: 400px;
     width: 270px;
     border-radius: 15px;
     margin: 20px;
 }
-
-#community {
-    padding-top: 20px;
-    font-size: 130%;
-    height: 300px;
-    width: 25%;
-    text-align: justify;
-    line-height: 1.5em;
-}
-
-#community > img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
-} 
+*/
 
 
 /* menu and contact page background */
