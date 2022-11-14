@@ -236,21 +236,30 @@ header {
 
 /* contact form */
 
-#form-background {
+#contact-us-container {
     width: 90%;
     height: 700px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
-.form-image{
-    margin-left: auto;
-    right: 20px;
-    height: 500px;
-    width: 30%;
-    border-radius: 15px;
+#contact-us-left {
+    
+}
+
+#contact-us-right {
+    
+}
+
+
+#contact-us-right h2 {
+    font-size: 150%;
+    padding-bottom: 15px;
+
 }
 
 #fname {
