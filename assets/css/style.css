@@ -139,7 +139,7 @@ header {
 /* business ethos */
 
 #business-ethos {
-    padding: 20px;
+    padding-top: 30px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -285,7 +285,6 @@ header {
     justify-content: space-around;
     color:#db4a4a;
     font-size: 20px;
-    padding: 20px;
     margin-top: 10px;
     margin-bottom: 40px;
 }
