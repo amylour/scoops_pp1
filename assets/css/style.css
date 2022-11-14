@@ -140,17 +140,24 @@ header {
 /* business ethos */
 
 #business-ethos {
-    padding: 40px;
+    padding: 20px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
 
+#business-ethos h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
 #about-us {
     padding-top: 20px;
-    font-size: 130%;
+    font-size: 120%;
     height: 300px;
-    width: 270px;
+    width: 25%;
+    text-align: justify;
+    line-height: 1.5em;
 }
 
 #about-us > img {
@@ -163,9 +170,11 @@ header {
 
 #ingredients {
     padding-top: 20px;
-    font-size: 130%;
+    font-size: 120%;
     height: 300px;
-    width: 270px;
+    width: 25%;
+    text-align: justify;
+    line-height: 1.5em;
 }
 
 #ingredients> img {
@@ -177,9 +186,11 @@ header {
 
 #eat {
     padding-top: 20px;
-    font-size: 130%;
+    font-size: 120%;
     height: 300px;
-    width: 270px;
+    width: 25%;
+    text-align: justify;
+    line-height: 1.5em;
 }
 
 #eat > img {
@@ -193,7 +204,9 @@ header {
     padding-top: 20px;
     font-size: 130%;
     height: 300px;
-    width: 270px;
+    width: 25%;
+    text-align: justify;
+    line-height: 1.5em;
 }
 
 #community > img {
