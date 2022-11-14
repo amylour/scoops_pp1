@@ -139,60 +139,66 @@ header {
 
 #business-ethos {
     padding: 40px;
+    display: flex;
+    justify-content: space-between;
 }
 
 #about-us {
     padding-top: 20px;
     font-size: 130%;
-    display: flex;
-    justify-content: space-between;
+    height: 300px;
+    width: 270px;
 }
 
 #about-us > img {
-    height: 350px;
-    width: 50%;
+    height: 400px;
+    width: 270px;
     border-radius: 15px;
+    margin: 20px;
 }
 
 
 #ingredients {
     padding-top: 20px;
     font-size: 130%;
-    display: flex;
-    justify-content: space-between;
+    height: 300px;
+    width: 270px;
 }
 
 #ingredients> img {
-    height: 350px;
-    width: 50%;
+    height: 400px;
+    width: 270px;
     border-radius: 15px;
+    margin: 20px;
 }
 
 #eat {
     padding-top: 20px;
     font-size: 130%;
-    display: flex;
-    justify-content: space-between;
+    height: 300px;
+    width: 270px;
 }
 
 #eat > img {
-    height: 350px;
-    width: 50%;
+    height: 400px;
+    width: 270px;
     border-radius: 15px;
+    margin: 20px;
 }
 
 #community {
     padding-top: 20px;
     font-size: 130%;
-    display: flex;
-    justify-content: space-between;
+    height: 300px;
+    width: 270px;
 }
 
 #community > img {
-    height: 350px;
-    width: 50%;
+    height: 400px;
+    width: 270px;
     border-radius: 15px;
-}
+    margin: 20px;
+} 
 
 
 /* menu and contact page background */
@@ -271,6 +277,10 @@ header {
     height: 500px;
     width: 30%;
     border-radius: 15px;
+}
+
+#fname {
+    margin: 20px;
 }
 
 
