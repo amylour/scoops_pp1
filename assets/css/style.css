@@ -6,7 +6,6 @@
     border: none;
 }
 
-
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
@@ -86,7 +85,7 @@ header {
     margin-bottom: 15px;
     border: 4px solid #78d5f7;
     box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
-    /*border-radius: 15px;*/ 
+
     background: url('../images/icecreamcounter.jpg') no-repeat center center;
     position: absolute;
     /* animates zoom effect on index page */
@@ -144,6 +143,7 @@ header {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    overflow: hidden;
 }
 
 #business-ethos h2 {
@@ -158,8 +158,7 @@ header {
     width: 25%;
     text-align: justify;
     line-height: 1.5em;
-}
-
+} 
 
 #ingredients {
     padding-top: 20px;
@@ -178,41 +177,6 @@ header {
     text-align: justify;
     line-height: 1.5em;
 }
-
-#ethos-images {
-    padding: 20px;
-    display: flex;
-    justify-content: space-around;
-}
-
-#image01, #image02, #image03 {
-    height: 300px;
-    width: 25%;
-}
-
-/*
-#about-us > img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
-}
-
-#ingredients> img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
-}
-
-#eat > img {
-    height: 400px;
-    width: 270px;
-    border-radius: 15px;
-    margin: 20px;
-}
-*/
-
 
 /* menu and contact page background */
 
