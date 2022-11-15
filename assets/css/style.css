@@ -84,6 +84,7 @@ header {
     margin-top: 10px;
     margin-bottom: 15px;
     border: 4px solid #78d5f7;
+    border-radius: 15px;
     box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
 
     background: url('../images/icecreamcounter.jpg') no-repeat center center;
