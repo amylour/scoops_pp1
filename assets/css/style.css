@@ -161,12 +161,21 @@ header {
     padding-top: 25px;
     font-size: 130%;
     height: 300px;
-    width: 40%;
+    width: 80%;
     text-align: justify;
     line-height: 1.5em;
     margin-left: 50px;
     margin-top:20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 } 
+
+/*#about-image {
+    align-self: flex-end;
+}*/
+
 
 #ingredients {
     padding-top: 25px;
