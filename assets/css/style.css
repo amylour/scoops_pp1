@@ -158,23 +158,29 @@ header {
 }
 
 #about-us {
-    padding-top: 25px;
+    padding-top: 15px;
     font-size: 130%;
     height: 300px;
-    width: 80%;
     text-align: justify;
     line-height: 1.5em;
-    margin-left: 50px;
-    margin-top:20px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
+    padding: 40px;
 } 
+#about-p {
+    justify-content: space-around;
+    padding: 40px;
+}
 
-/*#about-image {
-    align-self: flex-end;
-}*/
+#about-image {
+    justify-content: space-between;
+    padding: 40px;
+}
+
+#about-image img {
+    border-radius: 15px;
+}
 
 
 #ingredients {
