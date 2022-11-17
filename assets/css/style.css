@@ -154,7 +154,7 @@ header {
 
 #business-ethos h2 {
     text-align: center;
-    padding-bottom: 10px;
+    line-height: 1.25em;
 }
 
 #about-us {
@@ -184,23 +184,55 @@ header {
 
 
 #ingredients {
-    padding-top: 25px;
+    padding-top: 15px;
     font-size: 130%;
     height: 300px;
-    width: 40%;
     text-align: justify;
     line-height: 1.5em;
-    margin-left: 800px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 40px;
+}
+
+#ingredients-image {
+    justify-content: space-around;
+    padding: 40px;
+}
+
+#ingredients-p {
+    justify-content: space-between;
+    padding: 40px;
+}
+
+#ingredients-image img {
+    border-radius: 15px;
 }
 
 #eat {
-    padding-top: 25px;
+    padding-top: 15px;
     font-size: 130%;
     height: 300px;
-    width: 40%;
     text-align: justify;
     line-height: 1.5em;
-    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 40px;
+}
+
+#eat-p {
+    justify-content: space-around;
+    padding: 40px;
+}
+
+#eat-image {
+    justify-content: space-between;
+    padding: 40px;
+}
+
+#eat-image img {
+    border-radius: 15px;
 }
 
 /* menu and contact page background */
