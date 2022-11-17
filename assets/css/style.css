@@ -196,14 +196,21 @@ header {
 
 /* menu page */
 
+
 #menu-group {
-    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#menu-left {
+    width: 35%;
     height: 700px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
-    margin: 0 auto;
     margin-top: 50px;
 }
+
+#
 
 #flavour-list {
     list-style-type: none;
