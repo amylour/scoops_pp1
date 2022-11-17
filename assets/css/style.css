@@ -209,6 +209,7 @@ header {
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin-top: 50px;
+    list-style-type: none;
 }
 
 #menu-top-right {
@@ -217,6 +218,18 @@ header {
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin-top: 50px;
+}
+
+.menu-headings {
+    text-align: center;
+    margin: 15px;
+}
+
+.menu-items {
+    list-style-type: none;
+    font-size: 100%;
+    text-align: center;
+    line-height: 1.5em;
 }
 
 #menu-image {
@@ -228,9 +241,6 @@ header {
     bottom: -130px;
 }
 
-#flavour-list {
-    list-style-type: none;
-}
 
 /* contact form */
 
