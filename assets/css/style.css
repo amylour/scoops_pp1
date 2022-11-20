@@ -292,7 +292,7 @@ header {
     width: 40%;
     height: 350px;
     border-radius: 15px;
-    position: absolute;
+    position:absolute;
     right: 74px;
     bottom: -130px;
 }
@@ -421,4 +421,32 @@ iframe {
 #right-footer > h3 {
     text-align: center;
 }
+
+/* media query section - breakpoints for responsiveness */
+
+/*Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+
+/*Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/*Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/*Small devices (portrait tablets and large phone, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/*Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
 
