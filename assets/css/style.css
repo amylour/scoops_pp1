@@ -147,9 +147,11 @@ header {
     overflow: hidden;*/
 }
 
-#ethos-group {
+.ethos-group {
     display: flex;
     flex-direction: column;
+    max-width: 100rem;
+    margin: 0 auto;
 }
 
 #business-ethos h2 {
