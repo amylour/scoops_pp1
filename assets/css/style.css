@@ -259,9 +259,6 @@ header {
     justify-content: space-around;
 }
 
-ul {
-    columns: 2;
-}
 
 #menu-left {
     width: 40%;
@@ -286,6 +283,8 @@ ul {
     text-align: center;
     margin: 15px;
     font-size: 275%;
+    text-decoration: underline;
+    text-underline-offset: .75rem;
 }
 
 .menu-items {
@@ -293,6 +292,7 @@ ul {
     font-size: 150%;
     text-align: center;
     line-height: 1.75em;
+    columns: 2;
 }
 
 #menu-image {
