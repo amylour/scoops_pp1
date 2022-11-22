@@ -259,13 +259,16 @@ header {
     justify-content: space-around;
 }
 
+ul {
+    columns: 2;
+}
+
 #menu-left {
     width: 40%;
     height: 700px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin-top: 50px;
-    list-style-type: none;
 }
 
 #menu-top-right {
@@ -282,11 +285,12 @@ header {
 .menu-headings {
     text-align: center;
     margin: 15px;
+    font-size: 300%;
 }
 
 .menu-items {
     list-style-type: none;
-    font-size: 100%;
+    font-size: 150%;
     text-align: center;
     line-height: 1.5em;
 }
