@@ -285,20 +285,24 @@ ul {
 .menu-headings {
     text-align: center;
     margin: 15px;
-    font-size: 300%;
+    font-size: 275%;
 }
 
 .menu-items {
     list-style-type: none;
     font-size: 150%;
     text-align: center;
-    line-height: 1.5em;
+    line-height: 1.75em;
 }
 
 #menu-image {
     width: 90%;
     height: 400px;
     border-radius: 15px;  
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 2rem;
 }
 
 
