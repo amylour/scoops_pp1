@@ -124,6 +124,10 @@ header {
     position: relative;
 }
 
+.tagline h2 {
+    padding: 10px;
+}
+
 .button {
     background-color: #78d5f7;
     font-family: 'Josefin sans', 'sans-serif';
@@ -132,9 +136,10 @@ header {
     font-weight: bold;
     text-align: center;
     border: none;
-    padding: 15px;
+    padding: 10px;
+    margin: 10px;
     border-radius: 12px;
-    margin: 0 auto;
+    text-transform: none;
 } 
 
 .button a:hover {
