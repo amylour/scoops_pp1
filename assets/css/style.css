@@ -61,7 +61,7 @@ header {
 
 /* hero-image */
 
-#banner-stripes {
+#hero-stripes {
     width: 100%;
     height: 600px;
     background: repeating-linear-gradient(
@@ -77,7 +77,7 @@ header {
     overflow: hidden;
 }
 
-#banner {
+#hero-image {
     width:1280px;
     height: 500px;
     overflow: hidden;
@@ -90,13 +90,13 @@ header {
     background: url('../images/icecreamcounter.jpg') no-repeat center center;
     position: absolute;
     /* animates zoom effect on index page */
-    animation-name: banner-zoom;
+    animation-name: hero-zoom;
     animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 
-/* creates the level of zoom for banner image */
-@keyframes banner-zoom {
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
     from{
         transform: scale(1);
     }
@@ -105,7 +105,7 @@ header {
     }
 }
 
-#tagline {
+.tagline {
     font-family: 'Josefin sans', 'sans-serif';
     text-transform: uppercase;
     color: #db4a4a;
@@ -140,11 +140,7 @@ header {
 /* business ethos */
 
 #business-ethos {
-    padding-top: 30px;
-    /*display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    overflow: hidden;*/
+    padding: 30px;
 }
 
 .ethos-group {
@@ -159,7 +155,7 @@ header {
     line-height: 1.25em;
 }
 
-#about-us {
+.about-us {
     padding-top: 15px;
     font-size: 130%;
     height: 300px;
@@ -170,22 +166,22 @@ header {
     align-items: center;
     padding: 40px;
 } 
-#about-p {
+.about-p {
     justify-content: space-around;
     padding: 40px;
 }
 
-#about-image {
+.about-image {
     justify-content: space-between;
     padding: 40px;
 }
 
-#about-image img {
+.about-image img {
     border-radius: 15px;
 }
 
 
-#ingredients {
+.ingredients {
     padding-top: 15px;
     font-size: 130%;
     height: 300px;
@@ -197,21 +193,21 @@ header {
     padding: 40px;
 }
 
-#ingredients-image {
+.ingredients-image {
     justify-content: space-around;
     padding: 40px;
 }
 
-#ingredients-p {
+.ingredients-p {
     justify-content: space-between;
     padding: 40px;
 }
 
-#ingredients-image img {
+.ingredients-image img {
     border-radius: 15px;
 }
 
-#eat {
+.eat {
     padding-top: 15px;
     font-size: 130%;
     height: 300px;
@@ -223,17 +219,17 @@ header {
     padding: 40px;
 }
 
-#eat-p {
+.eat-p {
     justify-content: space-around;
     padding: 40px;
 }
 
-#eat-image {
+.eat-image {
     justify-content: space-between;
     padding: 40px;
 }
 
-#eat-image img {
+.eat-image img {
     border-radius: 15px;
 }
 
@@ -308,7 +304,7 @@ header {
 }
 
 .tables img {
-    height: 400px;
+    height: 350px;
     border-radius: 15px;
 }
 
@@ -441,12 +437,13 @@ iframe {
 
 /*Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-
 }
 
-/*Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-
+/*Large devices (laptops/desktops, 955px and below) */
+@media only screen and (max-width: 955px) {
+    .about-us {flex-direction: column;}
+    .ingredients {flex-direction: column;}
+    .eat {flex-direction: column;}
 }
 
 /*Medium devices (landscape tablets, 768px and up) */
