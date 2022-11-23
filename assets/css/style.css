@@ -127,7 +127,7 @@ header {
 .button {
     background-color: #78d5f7;
     font-family: 'Josefin sans', 'sans-serif';
-    font-size: 24px;
+    font-size: 20px;
     letter-spacing: 1px;
     font-weight: bold;
     text-align: center;
@@ -447,7 +447,11 @@ iframe {
     .tagline {
         font-size: 150%;
     }
-    
+
+    .button {
+        font-size: 20px;
+    }
+
     .ethos-group {
     }
 
