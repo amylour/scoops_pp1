@@ -194,14 +194,13 @@ header {
     flex-direction: row;
     align-items: center;
     padding: 40px;
-}
-
-.ingredients-image {
+} 
+.ingredients-p {
     justify-content: space-around;
     padding: 40px;
 }
 
-.ingredients-p {
+.ingredients-image {
     justify-content: space-between;
     padding: 40px;
 }
