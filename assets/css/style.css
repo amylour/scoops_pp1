@@ -142,6 +142,10 @@ header {
     text-transform: none;
 } 
 
+.button a {
+    color: #f53636;
+}
+
 .button a:hover {
     color: #f2f2f2;
 }
@@ -274,7 +278,22 @@ header {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
-    height: 300px;
+    margin: .75rem;
+}
+
+.toppings {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    margin: .75rem;
+}
+
+.prices {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
     margin: .75rem;
 }
 
@@ -283,13 +302,12 @@ header {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
-    height: 300px;
     margin: .75rem;
 }
 
 .menu-headings {
     text-align: center;
-    font-size: 220%;
+    font-size: 200%;
     text-decoration: underline;
     text-underline-offset: .75rem;
     margin: .75rem;
@@ -297,23 +315,15 @@ header {
 
 .menu-items {
     list-style-type: none;
-    font-size: 150%;
+    font-size: 125%;
     text-align: center;
     line-height: 1.40em;
     columns: 2;
     margin: .75rem;
 }
 
-.tables {
-    display: flex;
-    justify-content: center;
-    margin: 2.5rem;
-}
 
-.tables img {
-    height: 350px;
-    border-radius: 15px;
-}
+
 
 
 /* contact form */
@@ -449,7 +459,7 @@ iframe {
 
 /*Large devices (laptops/desktops, 1070px and up) */
 @media only screen and (max-width: 1070px) {
-    
+  
     .tagline {
         font-size: 150%;
     }
