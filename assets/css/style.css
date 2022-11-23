@@ -443,10 +443,14 @@ iframe {
 }
 
 /*Large devices (laptops/desktops, 955px and below) */
-@media only screen and (max-width: 955px) {
-    .ethos-group {
-        height: 2670px;
+@media only screen and (max-width: 1070px) {
+    .tagline {
+        font-size: 150%;
     }
+    
+    .ethos-group {
+    }
+
     .about-us {
         flex-direction: column;
         flex: 1;
