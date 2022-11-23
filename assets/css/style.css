@@ -442,17 +442,15 @@ iframe {
 @media only screen and (min-width: 1200px) {
 }
 
-/*Large devices (laptops/desktops, 955px and below) */
+/*Large devices (laptops/desktops, 1070px and up) */
 @media only screen and (max-width: 1070px) {
+    
     .tagline {
         font-size: 150%;
     }
 
     .button {
         font-size: 20px;
-    }
-
-    .ethos-group {
     }
 
     .about-us {
@@ -471,8 +469,17 @@ iframe {
     }
 }
 
-/*Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
+/*Medium devices (landscape tablets, 710px and up) */
+@media only screen and (max-width: 710px) {
+
+    header {
+        font-size: 14px;
+    }
+
+    #footer-group {
+        font-size: 16px;
+    }
+
 
 }
 
