@@ -6,6 +6,10 @@
     border: none;
 }
 
+html, body {
+    min-height: 100%;
+}
+
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
@@ -179,7 +183,6 @@ header {
 .about-image img {
     border-radius: 15px;
 }
-
 
 .ingredients {
     padding-top: 15px;
@@ -400,7 +403,7 @@ iframe {
 /* footer */
 
 #footer-group {
-    height: 150px;
+    height: 100px;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -408,6 +411,7 @@ iframe {
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 40px;
+    bottom: 0;
 }
 
 #opening-times {
@@ -441,9 +445,23 @@ iframe {
 
 /*Large devices (laptops/desktops, 955px and below) */
 @media only screen and (max-width: 955px) {
-    .about-us {flex-direction: column;}
-    .ingredients {flex-direction: column;}
-    .eat {flex-direction: column;}
+    .ethos-group {
+        height: 2670px;
+    }
+    .about-us {
+        flex-direction: column;
+        flex: 1;
+    }
+    
+    .ingredients {
+        flex-direction: column;
+        flex: 1;
+    }
+    
+    .eat {
+        flex-direction: column;
+        flex: 1;
+    }
 }
 
 /*Medium devices (landscape tablets, 768px and up) */
