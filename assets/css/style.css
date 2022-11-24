@@ -384,7 +384,7 @@ header {
 #newsletter,
 #textarea {
     margin: 10px;
-    font-size: 120%;
+    font-size: 150%;
     color: #012615;
 }
 
@@ -477,6 +477,15 @@ iframe {
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
+    #contact-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    #stripes {
+        height: 1550px;
+    }
 
 }
 
