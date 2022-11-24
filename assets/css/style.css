@@ -342,9 +342,9 @@ header {
 
 .menu-items {
     list-style-type: none;
-    font-size: 125%;
+    font-size: 130%;
     text-align: center;
-    line-height: 1.40em;
+    line-height: 1.50em;
     columns: 2;
     margin: .75rem;
 }
@@ -508,6 +508,7 @@ textarea {
 /* For extra large devices (large laptops and desktop monitors, 1300px wide and down) */
 @media only screen and (max-width: 1300px) {
 
+
 }
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
@@ -582,7 +583,7 @@ textarea {
     }
 
     .menu-background-left, .menu-background-right {
-        width: 70%;
+        width: 75%;
     }
 
     .menu-img > img {
