@@ -326,7 +326,8 @@ header {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
-    margin: .75rem;
+    width: 90%;
+    margin: 30px;
 }
 
 .menu-headings {
