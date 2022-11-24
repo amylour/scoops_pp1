@@ -427,6 +427,13 @@ textarea {
     color: #f2f2f2;
 }
 
+#google-map {
+    width: 90%;
+    overflow: hidden;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
 iframe {
     border-radius: 15px;
 }
@@ -492,6 +499,8 @@ iframe {
         width: 60%;
     }
 
+    
+
 }
 
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
@@ -510,6 +519,7 @@ iframe {
         display: block;
         margin: 0 auto;
     }
+
 }
 
 /*For small screens (phones in portrait mode, 480px - 320px) */
@@ -522,15 +532,6 @@ iframe {
     #contact-us-container-left, #contact-us-container-right {
         width: 60%;
     }
-
-    #google-map {
-        width: 360px;
-        overflow: hidden;
-        border-radius: 15px;
-        margin: 0 auto;
-    }
-
-
 
 }
 
