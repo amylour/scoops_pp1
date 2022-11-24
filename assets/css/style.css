@@ -520,7 +520,7 @@ textarea {
     }
 
     .menu-background-left, .menu-background-right {
-        width: 70%;
+        width: 60%;
     }
 
     #contact-container {
@@ -544,8 +544,8 @@ textarea {
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
     
-    .menu {
-
+    .menu-background-left, .menu-background-right {
+        width: 70%;
     }
 
     #contact-us-container-left, #contact-us-container-right {
@@ -579,6 +579,14 @@ textarea {
 
     #stripes {
         width: 700px;
+    }
+
+    .menu-background-left, .menu-background-right {
+        width: 70%;
+    }
+
+    .menu-img > img {
+        height: 450px;
     }
     
     #contact-us-container-left, #contact-us-container-right {
