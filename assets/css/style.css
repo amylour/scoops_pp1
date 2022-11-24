@@ -434,9 +434,9 @@ textarea {
     margin: 0 auto;
 }
 
-iframe {
+/*iframe {
     border-radius: 15px;
-}
+}*/
 
 /* footer */
 
@@ -520,10 +520,20 @@ iframe {
         margin: 0 auto;
     }
 
+    #footer-group {
+        font-size: 16px;
+    }
+
 }
 
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
+    
+    header {
+        font-size: 14px;
+        width: 700px;
+    }
+
 
     #stripes {
         width: 700px;
@@ -532,6 +542,13 @@ iframe {
     #contact-us-container-left, #contact-us-container-right {
         width: 60%;
     }
+
+    #footer-group {
+        font-size: 14px;
+        width: 700px;
+    }
+
+
 
 }
 
