@@ -513,6 +513,29 @@ textarea {
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
+
+    .tagline {
+        font-size: 150%;
+    }
+
+    .button {
+        font-size: 20px;
+    }
+
+    .about-us {
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .ingredients {
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .eat {
+        flex-direction: column;
+        flex: 1;
+    }
    
     .menu {
         display: flex;
@@ -544,6 +567,23 @@ textarea {
 
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
+
+    #hero-stripes {
+        width: 780px;
+    }
+
+    #hero-image {
+        width: 100%;
+    }
+
+    .tagline {
+        font-size: 140%;
+    }
+
+    .button {
+        font-size: 18px;
+    }
+
     
     .menu-background-left, .menu-background-right {
         width: 70%;
@@ -574,7 +614,23 @@ textarea {
     
     header {
         font-size: 14px;
-        width: 700px;
+        width: 480x;
+    }
+
+    #hero-stripes {
+        width: 480px;
+    }
+
+    #hero-image {
+        width: 400px;
+    }
+
+    .tagline {
+        font-size: 100%;
+    }
+
+    .button {
+        font-size: 16px;
     }
 
 
