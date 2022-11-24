@@ -327,15 +327,28 @@ header {
 
 /* contact form */
 
-#contact-us-container {
-    width: 90%;
+#contact-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#contact-us-container-left {
+    width: 45%;
     height: 700px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
-    display: flex;
-    justify-content: space-between;
+}
+
+#contact-us-container-right {
+    width: 45%;
+    height: 700px;
+    background-color: rgba(242, 242, 242, 0.8);
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 50px;
 }
 
 #contact-us-left {

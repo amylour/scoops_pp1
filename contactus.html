@@ -15,10 +15,10 @@
 <body>
     <header>
         <a href="index.html">
-            <h1 id="logo">SCOOPS</h1>
+            <h1 class="logo">SCOOPS</h1>
         </a>
         <nav>
-            <ul id="navbar">
+            <ul class="navbar">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="menu.html">Menu</a></li>
                 <li><a href="contactus.html" class="active">Contact Us</a></li>
@@ -28,9 +28,10 @@
 
     <section id="form-section">
         <div id="stripes">
-            <div id="contact-us-container">
-                <div id="contact-us-left">
-                <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-us">
+            <div id="contact-container">
+                <div id="contact-us-container-left">
+                    <div id="contact-us-left">
+                    <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-us">
                     <h2>Want more SCOOPS?</h2><br>
                     <label for="fname">First Name</label>
                     <input class="text-input" id="fname" name="first_name" type="text" required><br>
@@ -44,9 +45,11 @@
                     <label for="textarea">Enquiries</label>
                     <textarea name="message" id="textarea" class="message-field" rows="10" cols="30" placeholder="Please let us know if you have any queries or compliments (we love those!)"></textarea><br>
                     <input class="submit-button" type="submit" value="Send">
-                </form>
-                </div>
-                <div id="contact-us-right">
+                    </form>
+                    </div>
+                </div> 
+                <div id="contact-us-container-right">
+                    <div id="contact-us-right">
                     <h2>How to find us</h2>
                     <div id="google-map">
                         <iframe
@@ -62,8 +65,9 @@
                         N91 F992<br>
                         Phone 044 9354321<br>
                     </p>
-                </div>
-            </div> 
+                    </div>
+                    </div>
+            </div>
         </div>
     </section>
 
