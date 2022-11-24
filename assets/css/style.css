@@ -260,16 +260,32 @@ header {
 
 /* menu page */
 
-.menu-background {
-    width: 90%;
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.menu-background-left {
+    width: 45%;
     height: 700px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.menu-background-right {
+    width: 45%;
+    height: 700px;
+    background-color: rgba(242, 242, 242, 0.8);
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
 }
 
 .icecream {
@@ -297,6 +313,15 @@ header {
 }
 
 .coffee {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    margin: .75rem;
+}
+
+.cones-img > img {
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     flex-basis: 100%;
