@@ -487,6 +487,10 @@ iframe {
         height: 1550px;
     }
 
+    #contact-us-container-left, #contact-us-container-right {
+        width: 60%;
+    }
+
 }
 
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
