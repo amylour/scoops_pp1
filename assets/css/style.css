@@ -513,13 +513,13 @@ textarea {
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
 
-    .tagline {
+    /*.tagline {
         font-size: 150%;
     }
 
     .button {
         font-size: 20px;
-    }
+    }*/
 
     .about-us {
         flex-direction: column;
@@ -567,7 +567,7 @@ textarea {
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
 
-    #hero-stripes {
+    /*#hero-stripes {
         width: 780px;
     }
 
@@ -581,7 +581,7 @@ textarea {
 
     .button {
         font-size: 18px;
-    }
+    }*/
 
     
     .menu-background-left, .menu-background-right {
@@ -611,7 +611,7 @@ textarea {
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
     
-    header {
+    /*header {
         font-size: 14px;
         width: 480x;
     }
@@ -630,7 +630,7 @@ textarea {
 
     .button {
         font-size: 16px;
-    }
+    }*/
 
 
     #stripes {
