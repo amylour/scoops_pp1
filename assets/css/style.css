@@ -477,6 +477,7 @@ iframe {
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
+   
     #contact-container {
         display: flex;
         flex-direction: column;
@@ -495,11 +496,41 @@ iframe {
 
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
+    
+    #contact-us-container-left, #contact-us-container-right {
+        width: 70%;
+    }
 
+    #textarea {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .submit-button {
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
+
+    #stripes {
+        width: 700px;
+    }
+    
+    #contact-us-container-left, #contact-us-container-right {
+        width: 60%;
+    }
+
+    #google-map {
+        width: 360px;
+        overflow: hidden;
+        border-radius: 15px;
+        margin: 0 auto;
+    }
+
+
 
 }
 
