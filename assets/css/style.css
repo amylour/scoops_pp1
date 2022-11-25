@@ -608,28 +608,22 @@ textarea {
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
 
-    * {
-        border: 1px solid red;
-    }
-
     header {
         font-size: 16px;
     }
 
-    #center-hero {
-        display: flex;
-        justify-content: center;
+    .navbar {
+        padding-left: 60px;
     }
 
     #hero-stripes {
-        width: 100%;
+        width: 700px;
         display: flex;
         align-self: center;
     }
 
     #hero-image {
-        width: 100%;
-        overflow: hidden;
+        width: 550px;
     }
 
     .tagline {
@@ -690,6 +684,7 @@ textarea {
 
     #footer-group {
         font-size: 16px;
+        width: 650px;
     }
 
 
