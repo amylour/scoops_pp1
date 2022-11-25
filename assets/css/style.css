@@ -461,10 +461,6 @@ textarea {
     margin: 0 auto;
 }
 
-/*iframe {
-    border-radius: 15px;
-}*/
-
 /* footer */
 
 #footer-group {
@@ -632,6 +628,9 @@ textarea {
         font-size: 16px;
     }*/
 
+    .ethos-group {
+        width: 450px;
+    }
 
     #stripes {
         width: 700px;
@@ -663,12 +662,21 @@ textarea {
     }
     
     #contact-us-container-left, #contact-us-container-right {
-        width: 90%;
+        width: 80%;
         height: 800px;
     }
 
+    .submit-button {
+        font-size: 26px;
+    }
+
+    #contact-us-right > p {
+        font-size: 24px;
+        line-height: 1.5rem;
+    }
+
     #footer-group {
-        font-size: 14px;
+        font-size: 16px;
         width: 700px;
     }
 
