@@ -8,6 +8,7 @@
     border: none;
 }
 
+
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
@@ -77,6 +78,7 @@ header {
     justify-content: center;
     overflow: hidden;
 }
+
 
 #hero-image {
     width: 1280px;
@@ -157,7 +159,6 @@ header {
 .ethos-group {
     display: flex;
     flex-direction: column;
-    max-width: 100rem;
     margin: 0 auto;
 }
 
@@ -175,7 +176,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 .about-p {
@@ -201,7 +202,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 .ingredients-p {
@@ -227,7 +228,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 .eat-p {
@@ -606,18 +607,29 @@ textarea {
 
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
-    
-    /*header {
-        font-size: 14px;
-        width: 480x;
+
+    * {
+        border: 1px solid red;
+    }
+
+    header {
+        font-size: 16px;
+    }
+
+    #center-hero {
+        display: flex;
+        justify-content: center;
     }
 
     #hero-stripes {
-        width: 480px;
+        width: 100%;
+        display: flex;
+        align-self: center;
     }
 
     #hero-image {
-        width: 400px;
+        width: 100%;
+        overflow: hidden;
     }
 
     .tagline {
@@ -625,12 +637,13 @@ textarea {
     }
 
     .button {
-        font-size: 16px;
-    }*/
+        font-size: 20px;
+    }
 
     .ethos-group {
-        width: 450px;
+        width: 630px;
     }
+
 
     #stripes {
         width: 700px;
@@ -677,7 +690,6 @@ textarea {
 
     #footer-group {
         font-size: 16px;
-        width: 700px;
     }
 
 
