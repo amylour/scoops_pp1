@@ -635,14 +635,31 @@ textarea {
 
     #stripes {
         width: 700px;
+        height: 1980px;
+    }
+
+    .menu-headings {
+        font-size: 230%;
+    }
+
+    .menu-items {
+        font-size: 180%;
+    }
+
+    .menu-background-left {
+        height: 1000px;
+    }
+
+    .menu-background-right {
+        height: 280px;
     }
 
     .menu-background-left, .menu-background-right {
-        width: 75%;
+        width: 90%;
     }
 
     .menu-img > img {
-        height: 450px;
+        height: 500px;
     }
     
     #contact-us-container-left, #contact-us-container-right {
