@@ -663,7 +663,8 @@ textarea {
     }
     
     #contact-us-container-left, #contact-us-container-right {
-        width: 60%;
+        width: 90%;
+        height: 800px;
     }
 
     #footer-group {
