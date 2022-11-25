@@ -564,7 +564,7 @@ textarea {
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
 
-    /*#hero-stripes {
+    #hero-stripes {
         width: 780px;
     }
 
@@ -578,7 +578,7 @@ textarea {
 
     .button {
         font-size: 18px;
-    }*/
+    }
 
     
     .menu-background-left, .menu-background-right {
@@ -642,7 +642,7 @@ textarea {
     }
 
     .ethos-group {
-        width: 630px;
+        width: 640px;
     }
 
 
