@@ -576,7 +576,7 @@ textarea {
 
     .navbar > li {
         text-align: center;
-        line-height: 1.75rem;
+        line-height: 2.25rem;
     }
 
     #hero-stripes {
@@ -613,13 +613,57 @@ textarea {
         font-size: 155%;
         line-height: 3rem;
     }
+
+    #stripes {
+        width: 865px;
+        height: 2100px;
+    }
     
     .menu-background-left, .menu-background-right {
-        width: 70%;
+        width: 80%;
+    }
+
+    .menu-headings {
+        font-size: 250%;
+    }
+
+    .menu-items {
+        font-size: 200%;
+    }
+
+    .menu-background-left {
+        height: 1020px;
+    }
+
+    .menu-background-right {
+        height: 300px;
+        row-gap: 30%;
+    }
+
+    .menu-img > img {
+        height: 540px;
     }
 
     #contact-us-container-left, #contact-us-container-right {
-        width: 70%;
+        width: 80%;
+    }
+    
+    .contact-us > h2 {
+        font-size: 250%;
+
+    }
+
+    #contact-us-container-right {
+        height: 800px;
+    }
+
+    #contact-us-right > h2 {
+        font-size: 250%;
+
+    }
+
+    label {
+        font-size: 26px;
     }
 
     #textarea {
@@ -630,6 +674,12 @@ textarea {
     .submit-button {
         display: block;
         margin: 0 auto;
+        font-size: 26px;
+    }
+    
+    #contact-us-right > p {
+        font-size: 22px;
+        line-height: 1.5rem;
     }
 
     #footer-group {
