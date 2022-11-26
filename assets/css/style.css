@@ -609,7 +609,7 @@ textarea {
 @media only screen and (max-width: 480px) and (min-width: 320px) {
 
     header {
-        font-size: 16px;
+        font-size: 18px;
         width: 500px;
     }
 
@@ -624,7 +624,7 @@ textarea {
     }
 
     #hero-stripes {
-        width: 700px;
+        width: 720px;
         display: flex;
         align-self: center;
     }
@@ -645,6 +645,20 @@ textarea {
         width: 640px;
     }
 
+    .about-p {
+        font-size: 150%;
+        line-height: 3rem;
+    }
+
+    .ingredients-p {
+        font-size: 150%;
+        line-height: 3rem;
+    }
+
+    .eat-p {
+        font-size: 150%;
+        line-height: 3rem;
+    }
 
     #stripes {
         width: 700px;
@@ -690,9 +704,10 @@ textarea {
     }
 
     #footer-group {
-        font-size: 16px;
+        font-size: 18px;
         width: 650px;
     }
+
 
 
 
