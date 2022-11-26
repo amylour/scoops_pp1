@@ -564,8 +564,16 @@ textarea {
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
 @media only screen and (max-width: 768px) {
 
+    header {
+        font-size: 20px;
+    }
+
+    nav > li {
+        padding-left: 20px;
+    }
+
     #hero-stripes {
-        width: 780px;
+        width: 880px;
     }
 
     #hero-image {
@@ -600,7 +608,7 @@ textarea {
     }
 
     #footer-group {
-        font-size: 16px;
+        font-size: 20px;
     }
 
 }
@@ -625,8 +633,6 @@ textarea {
 
     #hero-stripes {
         width: 720px;
-        display: flex;
-        align-self: center;
     }
 
     #hero-image {
@@ -704,8 +710,8 @@ textarea {
     }
 
     #footer-group {
-        font-size: 18px;
-        width: 650px;
+        font-size: 20px;
+        width: 700px;
     }
 
 
