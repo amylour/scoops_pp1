@@ -648,8 +648,12 @@ textarea {
         font-size: 20px;
     }
 
+    #business-ethos {
+        width: 660px;
+    }
+
     .ethos-group {
-        width: 640px;
+        width: 660px;
     }
 
     .about-p {
