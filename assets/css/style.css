@@ -672,10 +672,11 @@ textarea {
     }
 
     #stripes {
-        width: 700px;
+        width: 715px;
         height: 1980px;
     }
 
+    
     .menu-headings {
         font-size: 230%;
     }
@@ -690,6 +691,7 @@ textarea {
 
     .menu-background-right {
         height: 280px;
+        row-gap: 30%;
     }
 
     .menu-background-left, .menu-background-right {
