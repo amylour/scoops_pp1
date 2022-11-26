@@ -566,11 +566,17 @@ textarea {
 @media only screen and (max-width: 768px) {
 
     header {
-        font-size: 20px;
+        font-size: 22px;
     }
 
-    nav > li {
-        padding-left: 20px;
+    .navbar {
+        padding-left: 80px;
+        padding-top: 20px;
+    }
+
+    .navbar > li {
+        text-align: center;
+        line-height: 1.75rem;
     }
 
     #hero-stripes {
@@ -589,6 +595,24 @@ textarea {
         font-size: 18px;
     }
 
+    #business-ethos {
+        width: 820px;
+    }
+
+    .about-p {
+        font-size: 155%;
+        line-height: 3rem;
+    }
+
+    .ingredients-p {
+        font-size: 155%;
+        line-height: 3rem;
+    }
+
+    .eat-p {
+        font-size: 155%;
+        line-height: 3rem;
+    }
     
     .menu-background-left, .menu-background-right {
         width: 70%;
@@ -609,7 +633,12 @@ textarea {
     }
 
     #footer-group {
-        font-size: 20px;
+        font-size: 24px;
+        width: 860px;
+    }
+    
+    #social-media {
+        font-size: 26px;
     }
 
 }
