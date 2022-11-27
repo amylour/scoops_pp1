@@ -188,12 +188,14 @@ header {
 .about-image {
     justify-content: space-between;
     padding: 40px;
+    object-fit: contain;
 }
 
 .about-image img {
     border-radius: 15px;
     height: 465px;  
     width: 315px;
+    
 }
 
 .ingredients {
@@ -728,6 +730,10 @@ textarea {
         width: 820px;
     }
 
+    #business-ethos h2 {
+        font-size: 230%;
+    }
+
     .about-p {
         font-size: 155%;
         line-height: 3rem;
@@ -826,12 +832,12 @@ textarea {
 @media only screen and (max-width: 480px) and (min-width: 320px) {
 
     header {
-        font-size: 18px;
+        font-size: 20px;
         width: 500px;
     }
 
     .navbar {
-        padding-left: 60px;
+        padding-left: 35px;
         padding-top: 20px;
     }
 
@@ -849,11 +855,11 @@ textarea {
     }
 
     .tagline {
-        font-size: 100%;
+        font-size: 150%;
     }
 
     .button {
-        font-size: 20px;
+        font-size: 24px;
     }
 
     #business-ethos {
@@ -864,8 +870,12 @@ textarea {
         width: 660px;
     }
 
+    .about-us {
+        padding: 60px;
+    }
+
     .about-p {
-        font-size: 150%;
+        font-size: 140%;
         line-height: 3rem;
     }
 
@@ -874,8 +884,12 @@ textarea {
         width: 390px;
     }
 
+    .ingredients {
+        padding: 60px;
+    }
+
     .ingredients-p {
-        font-size: 150%;
+        font-size: 140%;
         line-height: 3rem;
     }
 
@@ -884,8 +898,12 @@ textarea {
         width: 390px;
     }
 
+    .eat {
+        padding: 60px;
+    }
+
     .eat-p {
-        font-size: 150%;
+        font-size: 140%;
         line-height: 3rem;
     }
 
