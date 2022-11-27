@@ -176,7 +176,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 60px;
+    padding: 90px;
 }
 
 .about-p {
@@ -204,7 +204,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 60px;
+    padding: 90px;
 }
 
 .ingredients-p {
@@ -232,7 +232,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 60px;
+    padding: 90px;
 }
 
 .eat-p {
@@ -555,10 +555,14 @@ textarea {
         font-size: 250%;
     }
 
-
     .about-p {
         font-size: 170%;
         line-height: 3.5rem;
+    }
+
+    .about-image img {
+        height:600px;
+        width: 440px;
     }
 
     .ingredients-p {
@@ -566,9 +570,19 @@ textarea {
         line-height: 3.5rem;
     }
 
+    .ingredients-image img {
+        height:600px;
+        width: 440px;
+    }
+
     .eat-p {
         font-size: 170%;
         line-height: 3.5rem;
+    }
+
+    .eat-image img {
+        height:600px;
+        width: 440px;
     }
 
     #stripes {
@@ -853,14 +867,29 @@ textarea {
         line-height: 3rem;
     }
 
+    .about-image img {
+        height:500px;
+        width: 390px;
+    }
+
     .ingredients-p {
         font-size: 150%;
         line-height: 3rem;
     }
 
+    .ingredients-image img {
+        height:500px;
+        width: 390px;
+    }
+
     .eat-p {
         font-size: 150%;
         line-height: 3rem;
+    }
+
+    .eat-image img {
+        height:500px;
+        width: 390px;
     }
 
     #stripes {
