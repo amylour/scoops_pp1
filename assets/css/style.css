@@ -515,6 +515,119 @@ textarea {
 /* For extra large devices (large laptops and desktop monitors, 1300px wide and down) */
 @media only screen and (max-width: 1300px) {
 
+    #hero-stripes {
+        width: 1250px;
+    }
+
+    #hero-image {
+        width: 90%;
+    }
+
+    .menu-background-left, .menu-background-right {
+        width: 44%;
+    }
+
+
+}
+
+/* breakpoint for index and menu page 1170px*/
+@media only screen and (max-width: 1170px) {
+
+    header {
+        font-size: 24px;
+    }
+
+    #hero-stripes {
+        width: 1190px;
+    }
+
+    #hero-image {
+        width: 90%;
+    }
+
+    .about-us {
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .ingredients {
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .eat {
+        flex-direction: column;
+        flex: 1;
+    }
+   
+    #business-ethos h2 {
+        font-size: 250%;
+    }
+
+    .about-p {
+        font-size: 150%;
+        line-height: 3.5rem;
+    }
+
+    .about-image img {
+        height:600px;
+        width: 440px;
+    }
+
+    .ingredients-p {
+        font-size: 150%;
+        line-height: 3.5rem;
+    }
+
+    .ingredients-image img {
+        height:600px;
+        width: 440px;
+    }
+
+    .eat-p {
+        font-size: 150%;
+        line-height: 3.5rem;
+    }
+
+    .eat-image img {
+        height:600px;
+        width: 440px;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    #stripes {
+        height: 2600px;
+    }
+
+    .menu-background-left, .menu-background-right {
+        width: 75%;
+    }
+
+    .menu-headings {
+        font-size: 275%;
+    }
+
+    .menu-items {
+        font-size: 225%;
+    }
+
+    .menu-background-left {
+        height: 1150px;
+    }
+
+    .menu-background-right {
+        height: 300px;
+        row-gap: 30%;
+    }
+
+    .menu-img > img {
+        height: 670px;
+    }
 
 }
 
@@ -560,7 +673,7 @@ textarea {
     }
 
     .about-p {
-        font-size: 170%;
+        font-size: 150%;
         line-height: 3.5rem;
     }
 
@@ -570,7 +683,7 @@ textarea {
     }
 
     .ingredients-p {
-        font-size: 170%;
+        font-size: 150%;
         line-height: 3.5rem;
     }
 
@@ -580,7 +693,7 @@ textarea {
     }
 
     .eat-p {
-        font-size: 170%;
+        font-size: 150%;
         line-height: 3.5rem;
     }
 
