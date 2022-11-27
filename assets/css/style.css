@@ -191,6 +191,8 @@ header {
 
 .about-image img {
     border-radius: 15px;
+    height: 410px;  
+    width: 315px;
 }
 
 .ingredients {
@@ -217,6 +219,8 @@ header {
 
 .ingredients-image img {
     border-radius: 15px;
+    height: 410px;  
+    width: 315px;
 }
 
 .eat {
@@ -243,6 +247,8 @@ header {
 
 .eat-image img {
     border-radius: 15px;
+    height: 410px;  
+    width: 315px;
 }
 
 /* menu and contact page background */
@@ -510,14 +516,65 @@ textarea {
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
+    
+    header {
+        font-size: 24px;
+    }
 
-    /*.tagline {
+    .navbar {
+        padding-left: 100px;
+        padding-top: 20px;
+    }
+
+    .navbar > li {
+        text-align: center;
+        line-height: 2.25rem;
+    }
+
+    #hero-stripes {
+        width: 1060px;
+    }
+
+    #hero-image {
+        width: 90%;
+    }
+
+    .tagline {
         font-size: 150%;
     }
 
     .button {
-        font-size: 20px;
-    }*/
+        font-size: 22px;
+    }
+
+    #business-ethos {
+        width: 1000px;
+    }
+
+    #business-ethos h2 {
+        font-size: 250%;
+    }
+
+
+    .about-p {
+        font-size: 170%;
+        line-height: 3.5rem;
+    }
+
+    .ingredients-p {
+        font-size: 170%;
+        line-height: 3.5rem;
+    }
+
+    .eat-p {
+        font-size: 170%;
+        line-height: 3.5rem;
+    }
+
+    #stripes {
+        width: 1030px;
+        height: 2600px;
+    }
 
     .about-us {
         flex-direction: column;
@@ -541,7 +598,28 @@ textarea {
     }
 
     .menu-background-left, .menu-background-right {
-        width: 60%;
+        width: 75%;
+    }
+
+    .menu-headings {
+        font-size: 275%;
+    }
+
+    .menu-items {
+        font-size: 225%;
+    }
+
+    .menu-background-left {
+        height: 1150px;
+    }
+
+    .menu-background-right {
+        height: 300px;
+        row-gap: 30%;
+    }
+
+    .menu-img > img {
+        height: 600px;
     }
 
     #contact-container {
@@ -550,12 +628,47 @@ textarea {
         justify-content: space-evenly;
     }
 
-    #stripes {
-        height: 1550px;
+    #contact-us-container-left, #contact-us-container-right {
+        width: 75%;
+        height: 900px;
     }
 
-    #contact-us-container-left, #contact-us-container-right {
-        width: 60%;
+    .contact-us > h2 {
+        font-size: 250%;
+
+    }
+
+    #contact-us-right > h2 {
+        font-size: 270%;
+    }
+
+    label {
+        font-size: 28px;
+    }
+
+    #textarea {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .submit-button {
+        display: block;
+        margin: 0 auto;
+        font-size: 28px;
+    }
+    
+    #contact-us-right > p {
+        font-size: 26px;
+        line-height: 1.75rem;
+    }
+
+    #footer-group {
+        font-size: 26px;
+        width: 1024px;
+    }
+    
+    #social-media {
+        font-size: 26px;
     }
 
     
