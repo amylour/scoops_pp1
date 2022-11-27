@@ -129,9 +129,9 @@ header {
 }
 
 .button {
-    background-color: #78d5f7;
+    background-color: #94e3ff;
     font-family: 'Josefin sans', 'sans-serif';
-    font-size: 20px;
+    font-size: 26px;
     letter-spacing: 1px;
     font-weight: bold;
     text-align: center;
@@ -140,10 +140,11 @@ header {
     margin: 10px;
     border-radius: 12px;
     text-transform: none;
+    
 }
 
 .button a {
-    color: #f53636;
+    color:#A63838;
 }
 
 .button a:hover {
@@ -169,14 +170,14 @@ header {
 
 .about-us {
     padding-top: 15px;
-    font-size: 130%;
+    font-size: 150%;
     height: 300px;
     text-align: justify;
     line-height: 1.5em;
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 90px;
+    padding: 110px;
 }
 
 .about-p {
@@ -191,20 +192,20 @@ header {
 
 .about-image img {
     border-radius: 15px;
-    height: 410px;  
+    height: 465px;  
     width: 315px;
 }
 
 .ingredients {
     padding-top: 15px;
-    font-size: 130%;
+    font-size: 150%;
     height: 300px;
     text-align: justify;
     line-height: 1.5em;
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 90px;
+    padding: 110px;
 }
 
 .ingredients-p {
@@ -219,20 +220,20 @@ header {
 
 .ingredients-image img {
     border-radius: 15px;
-    height: 410px;  
+    height: 465px;  
     width: 315px;
 }
 
 .eat {
     padding-top: 15px;
-    font-size: 130%;
+    font-size: 150%;
     height: 300px;
     text-align: justify;
     line-height: 1.5em;
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 90px;
+    padding: 110px;
 }
 
 .eat-p {
@@ -247,7 +248,7 @@ header {
 
 .eat-image img {
     border-radius: 15px;
-    height: 410px;  
+    height: 465px;  
     width: 315px;
 }
 
@@ -477,6 +478,7 @@ textarea {
     justify-content: space-around;
     color: #db4a4a;
     font-size: 20px;
+    font-weight: 700;
     margin-top: 30px;
     margin-bottom: 40px;
     bottom: 0;
