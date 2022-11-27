@@ -277,7 +277,7 @@ header {
 
 .menu-background-left {
     width: 40%;
-    height: 800px;
+    height: 860px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
@@ -289,7 +289,7 @@ header {
 
 .menu-background-right {
     width: 40%;
-    height: 800px;
+    height: 850px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
@@ -363,6 +363,27 @@ header {
 .menu-items em {
     font-size: 20px;
     font-weight: 500;
+}
+
+#allergies {
+    color: #f53636;
+}
+
+.menu-items-toppings {
+    list-style-type: none;
+    font-size: 130%;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.5em;
+    columns: 2;
+    margin: .55rem;
+}
+
+.menu-items-prices {
+    font-size: 130%;
+    font-weight: 500;
+    columns: 2;
+    list-style-type: none;
 }
 
 
