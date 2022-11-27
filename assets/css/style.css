@@ -256,7 +256,7 @@ header {
 
 /* menu and contact page background */
 
-#stripes {
+#stripes-menu {
     background: repeating-linear-gradient(45deg,
             #f2f2f2 0px,
             #f2f2f2 20px,
@@ -264,7 +264,18 @@ header {
             #78d5f7 40px);
     width: 100%;
     overflow: hidden;
-    height: 1000px;
+    height: 1300px;
+}
+
+#stripes-contact {
+    background: repeating-linear-gradient(45deg,
+            #f2f2f2 0px,
+            #f2f2f2 20px,
+            #78d5f7 20px,
+            #78d5f7 40px);
+    width: 100%;
+    overflow: hidden;
+    height: 810px;
 }
 
 /* menu page */
@@ -277,7 +288,7 @@ header {
 
 .menu-background-left {
     width: 40%;
-    height: 860px;
+    height: 900px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
@@ -289,14 +300,14 @@ header {
 
 .menu-background-right {
     width: 40%;
-    height: 850px;
+    height: 660px;
     background-color: rgba(242, 242, 242, 0.8);
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
     display: flex;
     flex-direction: column;
-    row-gap: 25%;
+    row-gap: 5%;
 }
 
 .icecream {
@@ -333,13 +344,12 @@ header {
 
 .menu-img > img {
     width:100%;
-    height: 460px;
+    height: 470px;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
     transform: scaleX(-1);
-    display: none;
 }
 
 .menu-headings {
@@ -365,8 +375,9 @@ header {
     font-weight: 500;
 }
 
-#allergies {
+.extra-info {
     color: #f53636;
+    font-size: 18px;
 }
 
 .menu-items-toppings {
@@ -380,7 +391,7 @@ header {
 }
 
 .menu-items-prices {
-    font-size: 150%;
+    font-size: 130%;
     font-weight: 600;
     columns: 1;
     list-style-type: none;
@@ -393,6 +404,15 @@ header {
     font-weight: 500;
 }
 
+.menu-items-coffee {
+    list-style-type: none;
+    font-size: 130%;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.75em;
+    columns: 2;
+    margin: .55rem;
+}
 
 
 
