@@ -772,7 +772,7 @@ textarea {
 
     #stripes-menu {
         width: 1030px;
-        height: 4480px;
+        height: 3980px;
     }
 
     #stripes-contact {
@@ -806,23 +806,23 @@ textarea {
     }
 
     .menu-headings {
-        font-size: 50px;
+        font-size: 46px;
     }
 
     .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
-        font-size: 40px;
+        font-size: 36px;
     }
 
     .menu-items em, .menu-items-prices em, .extra-info {
-        font-size: 32px;
+        font-size: 30px;
     }
 
     .menu-background-left {
-        height: 2130px;
+        height: 1885px;
     }
 
     .menu-background-right {
-        height: 1385px;
+        height: 1115px;
         row-gap: 5%;
     }
 
@@ -1151,7 +1151,7 @@ textarea {
     }
 
     
-    .menu-items, .menu-items-prices, {
+    .menu-items, .menu-items-prices {
         font-size: 200%;
     }
 
