@@ -725,11 +725,11 @@ textarea {
     }
 
     .tagline {
-        font-size: 150%;
+        font-size: 160%;
     }
 
     .button {
-        font-size: 22px;
+        font-size: 26px;
     }
 
     #business-ethos {
@@ -777,7 +777,7 @@ textarea {
 
     #stripes-contact {
         width: 1030px;
-        height: 2600px;
+        height: 2015px;
     }
 
     .about-us {
@@ -843,11 +843,19 @@ textarea {
 
     .contact-us > h2 {
         font-size: 250%;
-
     }
 
     #contact-us-right > h2 {
         font-size: 270%;
+    }
+
+    #fname,
+    #lname,
+    #email,
+    #textarea {
+    margin: 20px;
+    font-size: 220%;
+    color: #012615;
     }
 
     label {
@@ -862,7 +870,7 @@ textarea {
     .submit-button {
         display: block;
         margin: 0 auto;
-        font-size: 28px;
+        font-size: 30px;
     }
     
     #contact-us-right > p {
@@ -975,7 +983,7 @@ textarea {
     }
 
     .menu-img > img {
-        height: 585px;
+        height: 600px;
     }
 
     #contact-us-container-left, #contact-us-container-right {
