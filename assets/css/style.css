@@ -656,7 +656,7 @@ textarea {
     }
 
     #stripes-menu {
-        height: 2600px;
+        height: 3565px;
     }
 
     #stripescontact {
@@ -675,17 +675,26 @@ textarea {
         font-size: 225%;
     }
 
+    .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
+        font-size: 200%;
+    }
+
+    .menu-items em, .menu-items-prices em, .extra-info {
+        font-size: 26px;
+    }
+
+
     .menu-background-left {
-        height: 1150px;
+        height: 1695px;
     }
 
     .menu-background-right {
-        height: 300px;
-        row-gap: 30%;
+        height: 950px;
+        row-gap: 40px;
     }
 
     .menu-img > img {
-        height: 670px;
+        height: 690px;
     }
 
 }
