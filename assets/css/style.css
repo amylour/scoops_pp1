@@ -983,6 +983,15 @@ textarea {
 
     }
 
+    #fname,
+    #lname,
+    #email,
+    #textarea {
+    margin: 20px;
+    font-size: 190%;
+    color: #012615;
+    }
+
     label {
         font-size: 26px;
     }
@@ -995,12 +1004,12 @@ textarea {
     .submit-button {
         display: block;
         margin: 0 auto;
-        font-size: 26px;
+        font-size: 28px;
     }
     
     #contact-us-right > p {
-        font-size: 22px;
-        line-height: 1.5rem;
+        font-size: 24px;
+        line-height: 1.75rem;
     }
 
     #footer-group {
