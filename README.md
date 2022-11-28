@@ -104,9 +104,26 @@ The visual language of the SCOOPS site was within the primary discussion with th
 ![screenshot of footer](assets/images/footer.png)  
   
 ## Mobile View  
+---  
+  
 ### - How Desktop changed to ensure responsiveness  
+
 ### - Imagery Changes  
-[screenshots fixed and rollout]  
+  
+- Index/Home page (mobile) 
+
+![screenshots of initial mobile view-home page](assets/images/mobile_indexpage.png)  
+
+- Menu page (mobile)  
+
+![screenshot of initial mobile view-menu page](assets/images/mobile_menupage.png)  
+
+- Contact Us page (mobile)  
+  
+![screenshot of initial mobile view-contact page](assets/images/mobile_contactus.png)  
+  
+---  
+
 
 ## Future Features  
 
