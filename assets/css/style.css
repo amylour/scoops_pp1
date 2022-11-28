@@ -655,7 +655,11 @@ textarea {
         justify-content: space-evenly;
     }
 
-    #stripes {
+    #stripes-menu {
+        height: 2600px;
+    }
+
+    #stripescontact {
         height: 2600px;
     }
 
@@ -757,7 +761,12 @@ textarea {
         width: 440px;
     }
 
-    #stripes {
+    #stripes-menu {
+        width: 1030px;
+        height: 2600px;
+    }
+
+    #stripes-contact {
         width: 1030px;
         height: 2600px;
     }
@@ -917,7 +926,12 @@ textarea {
         line-height: 3rem;
     }
 
-    #stripes {
+    #stripes-menu {
+        width: 865px;
+        height: 2100px;
+    }
+
+    #stripes-contact {
         width: 865px;
         height: 2100px;
     }
@@ -1080,27 +1094,37 @@ textarea {
         width: 390px;
     }
 
-    #stripes {
+    #stripes-menu {
+        width: 740px;
+        height: 3650px;
+    }
+
+    #stripes-contact {
         width: 740px;
         height: 1980px;
     }
 
     
-    .menu-headings {
-        font-size: 230%;
+    .menu-headings, {
+        font-size: 250%;
     }
 
-    .menu-items {
-        font-size: 180%;
+    .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
+        font-size: 200%;
     }
+
+    .menu-items em, .menu-items-prices em, .extra-info {
+        font-size: 26px;
+    }
+
 
     .menu-background-left {
-        height: 1000px;
+        height: 1740px;
     }
 
     .menu-background-right {
-        height: 280px;
-        row-gap: 30%;
+        height: 1160px;
+        row-gap: 5%;
     }
 
     .menu-background-left, .menu-background-right {
