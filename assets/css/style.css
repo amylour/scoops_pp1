@@ -1051,7 +1051,7 @@ textarea {
 
     .navbar > li {
         text-align: center;
-        line-height: 1.75rem;
+        line-height: 2.1rem;
     }
 
     #hero-stripes {
@@ -1162,7 +1162,7 @@ textarea {
     
     #contact-us-container-left, #contact-us-container-right {
         width: 80%;
-        height: 800px;
+        height: 880px;
     }
 
     .submit-button {
@@ -1170,8 +1170,8 @@ textarea {
     }
 
     #contact-us-right > p {
-        font-size: 24px;
-        line-height: 1.5rem;
+        font-size: 26px;
+        line-height: 1.9rem;
     }
 
     #footer-group {
