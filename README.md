@@ -128,16 +128,33 @@ The visual language of the SCOOPS site was within the primary discussion with th
 ## Future Features  
 
 -Adding video of walkthrough of the ice cream parlour  
--Ordering system for tubs of ice cream and cakes  
+-Ordering system for tubs of ice cream and cakes
+-Gallery wall of images  
   
 ---  
   
-  ## Design  
-  ### - Color Scheme  
-    Adobe Kuler  
-    Accesibility tests  
-    Lighthouse  
-    [screenshots]  
+# Design  
+
+  
+
+## - Color Scheme  
+
+### Adobe Color  
+
+![screenshot of color contrast check](assets/images/color_check01.png)  
+
+### Accessibility tests  
+
+Colour blind safe  
+
+![screenshot of colour blindness check](assets/images/cb_safe.png)  
+
+Lighthouse
+
+
+
+  
+ 
       
 ### - Imagery  
     Wanting a retro, paperlike feel, issues with contrast ratios for colors, wrapper/sleev of ice cream cone, branding  
