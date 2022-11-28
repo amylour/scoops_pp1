@@ -67,24 +67,41 @@ For the contact us page, the navigation and footer remain as before. Two section
 
 ### 5. Surface  
 
-The visual language of the SCOOPS site was within the primary discussion with the client. It was as important as the sites functionality. A design was created that allowed a consistent flow through the three, page site  
+The visual language of the SCOOPS site was within the primary discussion with the client. It was as important as the sites functionality. A design was created that allowed a consistent flow throughout the three page site. A background was designed to reflect the cone wrapper used by SCOOPS since their opening day. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand. A panel of colours was created, similar to the interior of the parlour. A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. Corners on all elements were rounded to maintain a retro feel. Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.
 
 ---
 ## Page Features  
 ### - Navbar  
-[screenshot of navbar]  
-### - Banner Image
-[screenshot of banner image]  
+
+![screenshot of navbar](assets/images/navbar.png)  
+
+### - Hero Image  
+
+![screenshot of hero image](assets/images/heroimage.png)  
+
 ### - Tagline & Call to Action  
-[screenshot of tagline and button]  
+
+![screenshot of tagline and button](assets/images/tagline.png)  
+
 ### - Business Ethos  
-[screenshot of ethos and images]  
+
+![screenshot of ethos and images](assets/images/aboutus.png)  
+
+![screenshot of ethos and images](assets/images/dairy.png)  
+
+![screenshot ethos and images](assets/images/hereortogo.png)  
+  
 ### - Menu Page  
-[screenshot of menu page]  
+
+![screenshot of menu page](assets/images/menu.png)  
+
 ### - Contact Us Page  
-[screenshot of contact us page]  
+
+![screenshot of contact us page](assets/images/contact.png)  
+
 ### - Footer  
-[screenshot of footer]  
+
+![screenshot of footer](assets/images/footer.png)  
   
 ## Mobile View  
 ### - How Desktop changed to ensure responsiveness  
