@@ -307,7 +307,7 @@ header {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
-    row-gap: 5%;
+    row-gap: 15px;
 }
 
 .icecream {
@@ -763,7 +763,7 @@ textarea {
 
     #stripes-menu {
         width: 1030px;
-        height: 2600px;
+        height: 4480px;
     }
 
     #stripes-contact {
@@ -793,28 +793,32 @@ textarea {
     }
 
     .menu-background-left, .menu-background-right {
-        width: 75%;
+        width: 80%;
     }
 
     .menu-headings {
-        font-size: 275%;
+        font-size: 50px;
     }
 
-    .menu-items {
-        font-size: 225%;
+    .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
+        font-size: 40px;
+    }
+
+    .menu-items em, .menu-items-prices em, .extra-info {
+        font-size: 32px;
     }
 
     .menu-background-left {
-        height: 1150px;
+        height: 2130px;
     }
 
     .menu-background-right {
-        height: 300px;
-        row-gap: 30%;
+        height: 1385px;
+        row-gap: 5%;
     }
 
     .menu-img > img {
-        height: 600px;
+        height: 680px;
     }
 
     #contact-container {
@@ -933,7 +937,7 @@ textarea {
 
     #stripes-contact {
         width: 865px;
-        height: 2100px;
+        height: 1920px;
     }
     
     .menu-background-left, .menu-background-right {
@@ -962,7 +966,7 @@ textarea {
     }
 
     .menu-img > img {
-        height: 540px;
+        height: 585px;
     }
 
     #contact-us-container-left, #contact-us-container-right {
