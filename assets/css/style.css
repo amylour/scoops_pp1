@@ -928,7 +928,7 @@ textarea {
 
     #stripes-menu {
         width: 865px;
-        height: 2100px;
+        height: 3370px;
     }
 
     #stripes-contact {
@@ -944,17 +944,21 @@ textarea {
         font-size: 250%;
     }
 
-    .menu-items {
-        font-size: 200%;
+    .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
+        font-size: 190%;
+    }
+
+    .menu-items em, .menu-items-prices em, .extra-info {
+        font-size: 24px;
     }
 
     .menu-background-left {
-        height: 1020px;
+        height: 1616px;
     }
 
     .menu-background-right {
-        height: 300px;
-        row-gap: 30%;
+        height: 970px;
+        row-gap:5%;
     }
 
     .menu-img > img {
@@ -1104,8 +1108,7 @@ textarea {
         height: 1980px;
     }
 
-    
-    .menu-headings, {
+    .menu-headings {
         font-size: 250%;
     }
 
