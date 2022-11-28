@@ -1142,7 +1142,16 @@ textarea {
         font-size: 250%;
     }
 
-    .menu-items, .menu-items-toppings, .menu-items-prices, .menu-items-coffee {
+    .menu-items-toppings {
+        line-height: 2em;
+    }
+
+    .menu-items-toppings, .menu-items-coffee {
+        font-size: 190%;
+    }
+
+    
+    .menu-items, .menu-items-prices, {
         font-size: 200%;
     }
 
@@ -1156,8 +1165,8 @@ textarea {
     }
 
     .menu-background-right {
-        height: 1160px;
-        row-gap: 4%;
+        height: 1080px;
+        row-gap: 5%;
     }
 
     .menu-background-left, .menu-background-right {
