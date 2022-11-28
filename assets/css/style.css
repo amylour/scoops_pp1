@@ -1149,7 +1149,7 @@ textarea {
 
     .menu-background-right {
         height: 1160px;
-        row-gap: 5%;
+        row-gap: 4%;
     }
 
     .menu-background-left, .menu-background-right {
@@ -1157,12 +1157,16 @@ textarea {
     }
 
     .menu-img > img {
-        height: 500px;
+        height: 550px;
     }
     
     #contact-us-container-left, #contact-us-container-right {
         width: 80%;
         height: 880px;
+    }
+
+    #fname, #lname, #email {
+        margin-left: 90px;
     }
 
     .submit-button {
