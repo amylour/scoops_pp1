@@ -707,13 +707,13 @@ textarea {
     }
 
     .navbar {
-        padding-left: 120px;
+        padding-left: 150px;
         padding-top: 20px;
     }
 
     .navbar > li {
         text-align: center;
-        line-height: 20px;
+        line-height: 2.25rem;
     }
 
     #hero-stripes {
