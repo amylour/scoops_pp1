@@ -432,6 +432,8 @@ header {
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
 }
 
 #contact-us-container-right {
@@ -465,7 +467,6 @@ header {
     color: #db4a4a;
 }
 
-
 #contact-us-container h2 {
     font-size: 200%;
 }
@@ -494,10 +495,12 @@ textarea {
     font-family: 'Josefin sans', 'sans-serif';
     padding: 10px;
     border-radius: 15px;
+    
 }
 
 #textarea {
-    vertical-align: middle;
+    display: block;
+    margin: 0 auto;
 }
 
 .submit-button {
@@ -571,7 +574,7 @@ textarea {
 @media only screen and (max-width: 1300px) {
 
     #hero-stripes {
-        width: 1250px;
+        width: 1300px;
     }
 
     #hero-image {
@@ -704,13 +707,13 @@ textarea {
     }
 
     .navbar {
-        padding-left: 100px;
+        padding-left: 120px;
         padding-top: 20px;
     }
 
     .navbar > li {
         text-align: center;
-        line-height: 2.25rem;
+        line-height: 20px;
     }
 
     #hero-stripes {
