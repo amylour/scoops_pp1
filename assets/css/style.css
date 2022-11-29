@@ -1046,7 +1046,7 @@ textarea {
 
 /*For small screens (phones in portrait mode, 480px - 320px) */
 @media only screen and (max-width: 480px) and (min-width: 320px) {
-
+    
     header {
         font-size: 20px;
         width: 500px;
