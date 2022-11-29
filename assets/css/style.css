@@ -476,7 +476,7 @@ header {
 #newsletter,
 #textarea {
     margin: 10px;
-    font-size: 150%;
+    font-size: 170%;
     color: #012615;
 }
 
@@ -683,7 +683,6 @@ textarea {
         font-size: 26px;
     }
 
-
     .menu-background-left {
         height: 1695px;
     }
@@ -696,8 +695,6 @@ textarea {
     .menu-img > img {
         height: 690px;
     }
-
-}
 
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
 @media only screen and (max-width: 1024px) {
@@ -1161,7 +1158,7 @@ textarea {
 
 
     .menu-background-left {
-        height: 1740px;
+        height: 1780px;
     }
 
     .menu-background-right {
@@ -1199,10 +1196,6 @@ textarea {
         font-size: 20px;
         width: 700px;
     }
-
-   
-
-
 
 }
 
