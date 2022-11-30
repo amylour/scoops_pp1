@@ -8,7 +8,6 @@
     border: none;
 }
 
-
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
@@ -432,8 +431,6 @@ header {
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 50px;
-    display: flex;
-    justify-content: flex-start;
 }
 
 #contact-us-container-right {
@@ -482,7 +479,7 @@ header {
 }
 
 label {
-    width: 150px;
+    width: 140px;
     display: inline-block;
     font-size: 1.25em;
 }
@@ -495,11 +492,12 @@ textarea {
     font-family: 'Josefin sans', 'sans-serif';
     padding: 10px;
     border-radius: 15px;
-    
 }
 
 #textarea {
-    vertical-align: middle;
+    display: block;
+    margin: 0 auto;
+    
 }
 
 .submit-button {
