@@ -499,8 +499,7 @@ textarea {
 }
 
 #textarea {
-    display: block;
-    margin: 0 auto;
+    vertical-align: middle;
 }
 
 .submit-button {
