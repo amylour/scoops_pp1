@@ -13,7 +13,6 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
   
 * [UXD (User Experience Design)](#user-experience-ux)
   * [Primary Goal](#primary-goal)
-  * [Visitor Goals](#visitor-goals)  
   * [User Stories](#user-stories)
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Strategy](#1-strategy)
@@ -51,18 +50,32 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 
 ## User Experience (UX)  
 ---  
+## User Stories  
 
 ### Primary Goal  
   
 SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlours traditional flavours and aesthetic. 
 
 ### Visitor Goals  
-  
-SCOOPS customers vary in age from child to elderly adult and it was a requirement that the website be straight to the point and easy to use for those seeking information about the menu, location and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
-    
-### User Stories  
-  
 
+SCOOPS customers vary in age and it was a requirement that the website be straight to the point and easy to use for those seeking information about the menu, location and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
+
+### First Time Visitor
+  - A user can access each page of the site with one click via the navigation bar.
+  - A user can access the menu and prices via the button located at the center of the landing page.
+  - A user can view the opening times and location via the footer.
+  - A user can find a map to the parlour via the navigation bar and footer.
+
+### Returning Visitor  
+  - A user can quickly access the menu via the landing page to check menu options and prices.
+  - A user can learn about the business ethos by scrolling down the landing page.
+  - A user can find social media links in the footer to learn more about SCOOPS.
+  - A user can use the contact form to connect with the business.
+  
+### Frequent Visitor  
+  - A user can see opening hours quickly by scrolling down the landing page.
+  - A user can view the social media links to check for menu updates.  
+  
 ---
 
 ## Creation Process  
