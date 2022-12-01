@@ -414,8 +414,6 @@ header {
 }
 
 
-
-
 /* contact form */
 
 #contact-container {
@@ -635,7 +633,7 @@ textarea {
     }
 
     .ingredients-image img {
-        height:600px;
+        height: 600px;
         width: 440px;
     }
 
@@ -696,7 +694,10 @@ textarea {
         height: 690px;
     }
 
+}
+
 /* For large devices (large tablets, laptops and smaller desktops, 1024px and down) */
+
 @media only screen and (max-width: 1024px) {
     
     header {
@@ -884,8 +885,6 @@ textarea {
         font-size: 26px;
     }
 
-    
-
 }
 
 /* For medium screens (tablets, large phones, landscape view 768px and down)*/
@@ -989,7 +988,6 @@ textarea {
     
     .contact-us > h2 {
         font-size: 250%;
-
     }
 
     #contact-us-container-right {
@@ -998,7 +996,6 @@ textarea {
 
     #contact-us-right > h2 {
         font-size: 250%;
-
     }
 
     #fname,

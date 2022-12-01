@@ -5,7 +5,7 @@
 SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered completely around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.
 
 ---
-![Responsive media screen image here](assets/images/amiresponsive.png)
+![Responsive media screen image here](assets/documentation/amiresponsive.png)
 
 ---
 
@@ -85,35 +85,35 @@ The visual language of the SCOOPS site was within the primary discussion with th
 ## Page Features  
 ### - Navbar  
 
-![screenshot of navbar](assets/images/navbar.png)  
+![screenshot of navbar](assets/documentation/navbar.png)  
 
 ### - Hero Image  
 
-![screenshot of hero image](assets/images/heroimage.png)  
+![screenshot of hero image](assets/documentation/heroimage.png)  
 
 ### - Tagline & Call to Action  
 
-![screenshot of tagline and button](assets/images/tagline.png)  
+![screenshot of tagline and button](assets/documentation/tagline.png)  
 
 ### - Business Ethos  
 
-![screenshot of ethos and images](assets/images/aboutus.png)  
+![screenshot of ethos and images](assets/documentation/aboutus.png)  
 
-![screenshot of ethos and images](assets/images/dairy.png)  
+![screenshot of ethos and images](assets/documentation/dairy.png)  
 
-![screenshot ethos and images](assets/images/hereortogo.png)  
+![screenshot ethos and images](assets/documentation/hereortogo.png)  
   
 ### - Menu Page  
 
-![screenshot of menu page](assets/images/menu.png)  
+![screenshot of menu page](assets/documentation/menu.png)  
 
 ### - Contact Us Page  
 
-![screenshot of contact us page](assets/images/contact.png)  
+![screenshot of contact us page](assets/documentation/contact.png)  
 
 ### - Footer  
 
-![screenshot of footer](assets/images/footer.png)  
+![screenshot of footer](assets/documentation/footer.png)  
   
 ## Mobile View  
 ---  
@@ -124,15 +124,15 @@ The visual language of the SCOOPS site was within the primary discussion with th
   
 - Index/Home page (mobile) 
 
-![screenshots of initial mobile view-home page](assets/images/mobile_indexpage.png)  
+![screenshots of initial mobile view-home page](assets/documentation/mobile_indexpage.png)  
 
 - Menu page (mobile)  
 
-![screenshot of initial mobile view-menu page](assets/images/mobile_menupage.png)  
+![screenshot of initial mobile view-menu page](assets/documentation/mobile_menupage.png)  
 
 - Contact Us page (mobile)  
   
-![screenshot of initial mobile view-contact page](assets/images/mobile_contactus.png)  
+![screenshot of initial mobile view-contact page](assets/documentation/mobile_contactus.png)  
   
 ---  
 
@@ -153,13 +153,14 @@ The visual language of the SCOOPS site was within the primary discussion with th
 
 ### Adobe Color  
 
-![screenshot of color contrast check](assets/images/color_check01.png)  
+![screenshot of color contrast check](assets/documentation
+/color_check01.png)  
 
 ### Accessibility tests  
 
 Colour blind safe  
 
-![screenshot of colour blindness check](assets/images/cb_safe.png)  
+![screenshot of colour blindness check](assets/documentation/cb_safe.png)  
 
 Lighthouse
 
