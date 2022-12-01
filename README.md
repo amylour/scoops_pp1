@@ -2,24 +2,51 @@
 
 [View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
 
-SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered completely around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.
+SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.
 
 ---
 ![Responsive media screen image here](assets/documentation/amiresponsive.png)
 
 ---
 
-# Contents  
+## CONTENTS  
   
-### - UXD (User Experience Design)  
-### - Creation process (Strategy -> Surface)  
-### - Page Features  
-### - Design  
-### - Technologies Used  
-### - Testing  
-### - Deployment  
-### - Credits  
-
+* [UXD (User Experience Design)](#user-experience-ux)
+  * [Primary Goal](#primary-goal)
+  * [Visitor Goals](#visitor-goals)  
+  * [User Stories](#user-stories)
+* [Creation process (Strategy -> Surface)](#creation-process)
+  * [Strategy](#1-strategy)
+  * [Scope](#2-scope)
+  * [Structural](#3-structural)
+  * [Skeleton](#4-skeleton)   
+  * [Surface](#5-surface)
+* [Design](#design)
+  * [Colour Scheme](#color-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)   
+* [Page Features](#page-features)
+  * [Navbar](#navbar)
+  * [Hero-Image](#hero-image)
+  * [Tagline & Call to Action](#tagline--call-to-action)
+  * [Business Ethos](#business-ethos)
+  * [Menu Page](#menu-page)
+  * [Contact Us](#contact-us-page)
+  * [Footer](#footer)  
+* [Mobile View](#mobile-view)
+  * [Desktop/Tablet/Mobile Differences](#desktoptabletmobile-differences)
+  * [Tablet View](#tablet-view-ipad-miniipad-prosurface-pro)
+  * [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
+* [Future Features](#future-features)
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworkslibrariesprograms-used)
+* [Deployment](#deployment)
+  * [How to deploy](#how-to-deploy)
+* [Testing](#testing)
+* [Credits](#credits)
+ 
 ---
 
 ## User Experience (UX)  
@@ -75,13 +102,39 @@ For the landing page, the client's logo, SCOOPS, was to be top-left of every pag
 For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors decision.  
   
 For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. Their is an option to enlarge the map in a new window and find directions. Below the map again are the location details for the shop with a phone number to contact them.  
-  
+
+### - Wireframes  
+    Desktop, iPad, Mobile  
+    [screenshots]  
+    Wireframes done pen and paper, thidied up in Procreate, will develop further on Balsamiq/Figma   
 
 ### 5. Surface  
 
 The visual language of the SCOOPS site was within the primary discussion with the client. It was as important as the sites functionality. A design was created that allowed a consistent flow throughout the three page site. A background was designed to reflect the cone wrapper used by SCOOPS since their opening day. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand. A panel of colours was created, similar to the interior of the parlour. A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. Corners on all elements were rounded to maintain a retro feel. Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.
 
----
+---  
+  
+# Design  
+
+## - Color Scheme  
+
+### Adobe Color  
+
+![screenshot of color contrast check](assets/documentation
+/color_check01.png)  
+  
+### - Font/Typography  
+    Josefin sans/Lato - Josefin used throughout. Josefin not appearing on Safari - how to overcome  
+    Google Fonts  
+    Adobe Font Library  
+        
+### - Imagery  
+    Wanting a retro, paperlike feel, issues with contrast ratios for colors, wrapper/sleev of ice cream cone, branding  
+    pexels.com  
+    unsplash.com  
+        
+---  
+
 ## Page Features  
 ### - Navbar  
 
@@ -115,12 +168,14 @@ The visual language of the SCOOPS site was within the primary discussion with th
 
 ![screenshot of footer](assets/documentation/footer.png)  
   
-## Mobile View  
+## Tablet & Mobile View  
 ---  
   
-### - How Desktop changed to ensure responsiveness  
+### - Desktop/Tablet/Mobile Differences  
+  
+### - Tablet View (iPad Mini/iPad Pro/Surface Pro)
 
-### - Imagery Changes  
+### - Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)  
   
 - Index/Home page (mobile) 
 
@@ -136,7 +191,6 @@ The visual language of the SCOOPS site was within the primary discussion with th
   
 ---  
 
-
 ## Future Features  
 
 -Adding video of walkthrough of the ice cream parlour  
@@ -144,46 +198,14 @@ The visual language of the SCOOPS site was within the primary discussion with th
 -Gallery wall of images  
   
 ---  
-  
-# Design  
+## - Technologies Used  
 
-  
-
-## - Color Scheme  
-
-### Adobe Color  
-
-![screenshot of color contrast check](assets/documentation
-/color_check01.png)  
-
-### Accessibility tests  
-
-Colour blind safe  
-
-![screenshot of colour blindness check](assets/documentation/cb_safe.png)  
-
-Lighthouse
-
-
-
-  
- 
-      
-### - Imagery  
-    Wanting a retro, paperlike feel, issues with contrast ratios for colors, wrapper/sleev of ice cream cone, branding  
-    pexels.com  
-    unsplash.com  
-  
-### - Font/Typography  
-    Josefin sans/Lato - Josefin used throughout. Josefin not appearing on Safari - how to overcome  
-    Google Fonts  
-    Adobe Font Library  
-  
-### - Wireframes  
-    Desktop, iPad, Mobile  
-    [screenshots]  
-    Wireframes done pen and paper, thidied up in Procreate, will develop further on Balsamiq/Figma  
-  
+### - Languages Used   
+  -Languages  
+    HTML5  
+    css3  
+    Git  
+---  
 ### - Frameworks/Libraries/Programs Used  
     Google Fonts  
     Fntawesome  
@@ -192,18 +214,13 @@ Lighthouse
     Balsamiq  
     Adobe Image Resizer  
     Adobe Color  
-  
+---   
+## Deployment
+
+### - How to deploy.  
+
 ---  
-## Technologies Used  
-  
-  -Created on Google Chrome browser, use of Chrome Developer Tools  
-  -Tested on Chrome, Firefox, Safari (iPad Pro), Android, iOS (iPhone SE)  
-  -Languages  
-    HTML5  
-    css3  
-    Git  
-  
----  
+
 ## Testing  
   
 ### -HTML Validation using W3C Validation  
@@ -215,7 +232,7 @@ Lighthouse
 ### -Adobe Color tool validation for contrast ratio/color blindness  
 [screenshot of validation]  
 -Links to official documentation downloaded from validation services  
-  
+ 
 ### -Personal Testing  
 Tested on Chrome (Acer Aspire3 laptop), Safari (iPad Pro), Android  
 (Huawei p30 lite),  iOS (iPhone SE)  
