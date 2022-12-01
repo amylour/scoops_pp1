@@ -131,10 +131,9 @@ The visual language of the SCOOPS site was within the primary discussion with th
 
 ## - Color Scheme  
 
-### Adobe Color  
-
-![screenshot of color contrast check](assets/documentation
-/color_check01.png)  
+This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
+  
+![colour theme swatches](assets/documentation/colourtheme.png) 
   
 ### - Font/Typography  
     Josefin sans/Lato - Josefin used throughout. Josefin not appearing on Safari - how to overcome  
