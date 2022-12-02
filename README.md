@@ -133,13 +133,22 @@ The visual language of the SCOOPS site was within the primary discussion with th
 
 This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
-![colour theme swatches](assets/documentation/colourtheme.png) 
+![colour theme swatches](assets/documentation/colourtheme.png)  
+  
+I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
+  
+![Colour contrast ratio for buttons](assets/documentation/buttoncontrast.png)  
+  
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accesible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
+  
+![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
 ## - Font/Typography  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.  
   
 ![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
+
         
 ### - Imagery  
     Wanting a retro, paperlike feel, issues with contrast ratios for colors, wrapper/sleev of ice cream cone, branding  
