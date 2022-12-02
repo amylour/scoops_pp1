@@ -46,10 +46,10 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Testing](#testing)
 * [Credits](#credits)
  
----
+
 
 ## User Experience (UX)  
----  
+  
 ## User Stories  
 
 ### Primary Goal  
@@ -135,10 +135,11 @@ This website used a fresh, bold palette of blues and reds to capture the aesthet
   
 ![colour theme swatches](assets/documentation/colourtheme.png) 
   
-### - Font/Typography  
-    Josefin sans/Lato - Josefin used throughout. Josefin not appearing on Safari - how to overcome  
-    Google Fonts  
-    Adobe Font Library  
+## - Font/Typography  
+  
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.  
+  
+![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
         
 ### - Imagery  
     Wanting a retro, paperlike feel, issues with contrast ratios for colors, wrapper/sleev of ice cream cone, branding  
