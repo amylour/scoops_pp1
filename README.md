@@ -84,7 +84,6 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 
 
 - I required an easy to read, dependable website that delivers clear information about menu options and opening times.  
-
 - Location of the shop must be visible and social media links available.  
 - The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
 - Pricing within the menu page is to be transparent and simple.  
@@ -95,8 +94,7 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 
 The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
 
-- The site is to contain only essential information, presented in a similar fashion and layout.  
- 
+- The site is to contain only essential information, presented in a similar fashion and layout.   
 - Text must be clear and legible on any sized device to allow the user instant access to the menu, location and opening times.  
 - A brief history of the business is to be included on the landing page.  
 - For future developement, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials and candid shots of customers and staff.
@@ -104,17 +102,28 @@ The SCOOPS site must be available on a wide range of devices due to the varied r
 
 ### 3. Structural  
 
-Similar to the request of the design and layout being accessible and functional, simple navigation and interactivity was essential. It was necessary that the site provide information swiftly no matter the age of the user. Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable. Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic. A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line. In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information-destination, strengthening the site's familiar and trusting feeling.  
+Similar to the request of the design and layout being accessible and functional, simple navigation and interactivity was essential. It was necessary that the site provide information swiftly no matter the age of the user.  
+- Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
+- Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic.  
+- A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.  
+- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information-destination, strengthening the site's familiar and trusting feeling.  
 
   
 ### 4. Skeleton  
 
-The site was developed within the client's expectation to be simple, clear and familiar -  
-For the landing page, the client's logo, SCOOPS, was to be top-left of every page, no matter the orientation or screen size. The simple, three item navigation bar of 'Home', 'Menu' and 'Contact Us', situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate. A large, clear image dominates the landing page with a close-up view of the available ice cream flavours, their texture visible. Centered in the image is a tagline featuring a phrase used constantly at SCOOPS, with the answer, a large, clickable button situated immediately below it. For first time visitors, they have access to the menu with one easy, click. For returning or curious visitors, scrolling down the page introduces them to a brief, three piece, information section about the SCOOPS business. Images are visible to one side of the headed paragraphs. The page ends with the footer, again offering three pieces of important information to the user, opening times, location and social media.  
+The site was developed to be simple, clear and familiar.  
 
-For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors decision.  
+- For the landing page, the logo, SCOOPS, was to be top-left of every page, no matter the orientation or screen size.  
+- The simple, three item navigation bar of 'Home', 'Menu' and 'Contact', situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate.  
+- A large, clear image dominates the landing page with a close-up view of the available ice cream flavours, their texture visible.  
+- Centered in the image is a tagline with a large, clickable button situated immediately below it. For first time visitors, they have access to the menu with one easy click.  
+- For returning or curious visitors, scrolling down the page introduces them to a brief, three piece, information section about the SCOOPS business. Images are visible to one side of the headed paragraphs.  
+- The page ends with the footer, again offering three pieces of important information to the user, opening times, location and social media.  
+
+- For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors decision.  
   
-For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. Their is an option to enlarge the map in a new window and find directions. Below the map again are the location details for the shop with a phone number to contact them.  
+- For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. Their is an option to enlarge the map in a new window and find directions.  
+- Below the map again are the location details for the shop with a phone number to contact them.  
 
 ### - Wireframes  
     Desktop, iPad, Mobile  
@@ -123,7 +132,13 @@ For the contact us page, the navigation and footer remain as before. Two section
 
 ### 5. Surface  
 
-The visual language of the SCOOPS site was within the primary discussion with the client. It was as important as the sites functionality. A design was created that allowed a consistent flow throughout the three page site. A background was designed to reflect the cone wrapper used by SCOOPS since their opening day. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand. A panel of colours was created, similar to the interior of the parlour. A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. Corners on all elements were rounded to maintain a retro feel. Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.
+ A design was created that allowed a consistent flow throughout the three page site.   
+ - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
+- A palette of blues and reds was created, similar to the interior of the parlour.  
+- A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
+- Corners on all elements were rounded to maintain a retro feel. 
+
+Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.
 
 ---  
   
