@@ -174,15 +174,21 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 ## Page Features  
 ### - Navbar  
 
-![screenshot of navbar](assets/documentation/navbar.png)  
+![screenshot of navbar](assets/documentation/navbar.png) 
+
+This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
 
 ### - Hero Image  
 
 ![screenshot of hero image](assets/documentation/heroimage.png)  
 
+The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
+
 ### - Tagline & Call to Action  
 
 ![screenshot of tagline and button](assets/documentation/tagline.png)  
+
+The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site. 
 
 ### - Business Ethos  
 
@@ -191,18 +197,26 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 ![screenshot of ethos and images](assets/documentation/dairy.png)  
 
 ![screenshot ethos and images](assets/documentation/hereortogo.png)  
+
+Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.   
   
 ### - Menu Page  
 
 ![screenshot of menu page](assets/documentation/menu.png)  
 
+The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
+
 ### - Contact Us Page  
 
 ![screenshot of contact us page](assets/documentation/contact.png)  
 
+Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
+
 ### - Footer  
 
-![screenshot of footer](assets/documentation/footer.png)  
+![screenshot of footer](assets/documentation/footer.png) 
+
+The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading. 
   
 ## Tablet & Mobile View  
 ---  
