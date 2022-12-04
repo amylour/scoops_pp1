@@ -223,21 +223,14 @@ The footer remains the same throughout the design. It contains important informa
   
 ### - Desktop/Tablet/Mobile Differences  
   
-### - Tablet View (iPad Mini/iPad Pro/Surface Pro)
+### - Tablet View (iPad Mini/iPad Pro/Surface Pro)  
+  
+![screenshots of SCOOPS website on ipad pro](assets/documentation/tablet_view.png)
+
 
 ### - Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)  
   
-- Index/Home page (mobile) 
-
-![screenshots of initial mobile view-home page](assets/documentation/mobile_indexpage.png)  
-
-- Menu page (mobile)  
-
-![screenshot of initial mobile view-menu page](assets/documentation/mobile_menupage.png)  
-
-- Contact Us page (mobile)  
-  
-![screenshot of initial mobile view-contact page](assets/documentation/mobile_contactus.png)  
+![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
   
 ---  
 
