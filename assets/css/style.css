@@ -509,8 +509,8 @@ textarea {
     border: none;
     padding: 15px;
     border-radius: 12px;
-    margin-left: 165px;
-    margin-top: 20px;
+    display: block; 
+    margin: 0 auto;
 }
 
 .submit-button:hover {

@@ -125,7 +125,7 @@ The site was developed to be simple, clear and familiar.
 - For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. Their is an option to enlarge the map in a new window and find directions.  
 - Below the map again are the location details for the shop with a phone number to contact them.  
 
-### - Wireframes  
+### Wireframes  
     Desktop, iPad, Mobile  
     [screenshots]  
     Wireframes done pen and paper, thidied up in Procreate, will develop further on Balsamiq/Figma   
@@ -144,7 +144,7 @@ Overall, the design was intended and created to foster the emotional and familia
   
 # Design  
 
-## - Color Scheme  
+## Color Scheme  
 
 This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
@@ -158,39 +158,39 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
   
 ![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
-## - Font/Typography  
+## Font/Typography  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
   
 ![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
 
         
-## - Imagery  
+## Imagery  
   
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
         
 ---  
 
 ## Page Features  
-### - Navbar  
+### Navbar  
 
 ![screenshot of navbar](assets/documentation/navbar.png) 
 
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
 
-### - Hero Image  
+### Hero Image  
 
 ![screenshot of hero image](assets/documentation/heroimage.png)  
 
 The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
 
-### - Tagline & Call to Action  
+### Tagline & Call to Action  
 
 ![screenshot of tagline and button](assets/documentation/tagline.png)  
 
 The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site. 
 
-### - Business Ethos  
+### Business Ethos  
 
 ![screenshot of ethos and images](assets/documentation/aboutus.png)  
 
@@ -200,19 +200,19 @@ The tagline image has it's opacity set to allow the hero image to still show thr
 
 Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.   
   
-### - Menu Page  
+### Menu Page  
 
 ![screenshot of menu page](assets/documentation/menu.png)  
 
 The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
 
-### - Contact Us Page  
+### Contact Page  
 
-![screenshot of contact us page](assets/documentation/contact.png)  
+![screenshot of contact us page](assets/documentation/contact_page.png)  
 
 Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
 
-### - Footer  
+### Footer  
 
 ![screenshot of footer](assets/documentation/footer.png) 
 
@@ -221,14 +221,16 @@ The footer remains the same throughout the design. It contains important informa
 ## Tablet & Mobile View  
 ---  
   
-### - Desktop/Tablet/Mobile Differences  
+### Desktop/Tablet/Mobile Differences  
   
-### - Tablet View (iPad Mini/iPad Pro/Surface Pro)  
+To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections and contact sections were displayed in a row format for desktops but this switched to column for smaller screensizes. The header and footer remained the same, whilst images were resized to fit the display.
+  
+### Tablet View (iPad Mini/iPad Pro/Surface Pro)  
   
 ![screenshots of SCOOPS website on ipad pro](assets/documentation/tablet_view.png)
 
 
-### - Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)  
+### Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)  
   
 ![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
   
