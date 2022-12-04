@@ -221,7 +221,7 @@ The footer remains the same throughout the design. It contains important informa
 ## Tablet & Mobile View  
 ---  
   
-### Desktop/Tablet/Mobile Differences  
+### Desktop, Tablet & Mobile Differences  
   
 To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections and contact sections were displayed in a row format for desktops but this switched to column for smaller screensizes. The header and footer remained the same, whilst images were resized to fit the display.
   
@@ -238,31 +238,47 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ## Future Features  
 
--Adding video of walkthrough of the ice cream parlour  
--Ordering system for tubs of ice cream and cakes
--Gallery wall of images  
+- For future development I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.  
+- An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
+- A gallery page of dessert specials, events held at the parlour and candid photos of customers and staff.
   
 ---  
-## - Technologies Used  
-
-### - Languages Used   
-  -Languages  
-    HTML5  
-    css3  
-    Git  
+## Technologies Used  
 ---  
-### - Frameworks/Libraries/Programs Used  
-    Google Fonts  
-    Fntawesome  
-    Git/GitHub/GitPod  
-    Procreate  
-    Balsamiq  
-    Adobe Image Resizer  
-    Adobe Color  
+
+### Languages Used   
+
+- HTML5
+- CSS3
+
+### Frameworks, Libraries, Technologies & Programs Used  
+
+- Procreate - used to create wireframes and editing images 
+- Github - used to save and store all files for this website  
+- Git - used for version control
+- Google Fonts - fonts were imported from here 
+- Font Awesome - icons and their associated kit were downloaded from here  
+- Adobe Color - for all color palettes and accessibility contrast ratios  
+- Favicon.io - for ice cream favicon  
+- Tiny PNG - to compress images 
+- Google Dev Tools - to debug and for testing responsiveness 
+- Google Lighthouse - for auditing the website
+- W3C Validator - for validating the HTML and CSS code
+
 ---   
 ## Deployment
 
-### - How to deploy.  
+### How to deploy  
+
+Github was used to deploy the website. These were the steps taken to acheive this:  
+
+1. Login to Github account
+2. Navigate to the project repository, scoops_pp1
+3. Click the Settings button near the top of the page
+4. In the left-hand menu, find and click on the Pages button
+5. In the Source section, choose 'main' from the drop down select branch menu
+6. Select 'root' from the drop down folder menu
+7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
 ---  
 
