@@ -50,7 +50,7 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 
 ## User Experience (UX)  
   
-## User Stories  
+### User Stories  
 
 ### Primary Goal  
   
@@ -142,9 +142,9 @@ Overall, the design was intended and created to foster the emotional and familia
 
 ---  
   
-# Design  
+## Design  
 
-## Color Scheme  
+### Color Scheme  
 
 This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
@@ -219,8 +219,7 @@ Similar to the menu page design. Two sections for contacting the business with a
 The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading. 
   
 ## Tablet & Mobile View  
----  
-  
+ 
 ### Desktop, Tablet & Mobile Differences  
   
 To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections and contact sections were displayed in a row format for desktops but this switched to column for smaller screensizes. The header and footer remained the same, whilst images were resized to fit the display.
@@ -284,22 +283,22 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 
 ## Testing  
   
-### -HTML Validation using W3C Validation  
+### HTML Validation using W3C Validation  
 [screenshot of validation]  
-### -CSS Validation using W3C Validation  
+### CSS Validation using W3C Validation  
 [screenshot of validation]  
-### -Lighthouse scores via Chrome Developer Tools  
+### Lighthouse scores via Chrome Developer Tools  
 [screenshots of validation]  
-### -Adobe Color tool validation for contrast ratio/color blindness  
+### Adobe Color tool validation for contrast ratio/color blindness  
 [screenshot of validation]  
 -Links to official documentation downloaded from validation services  
  
-### -Personal Testing  
+### Personal Testing  
 Tested on Chrome (Acer Aspire3 laptop), Safari (iPad Pro), Android  
 (Huawei p30 lite),  iOS (iPhone SE)  
 Testing across browsers: Chrome, Firefox, Edge, Safari  
   
-### - Bugs & Fixes  
+### Bugs & Fixes  
 White space RHS webpage - padding issue in footer - developer mistype  
 Contrast ratio - adjusting colors  
 Flexbox issues - business ethos and images spacing, footer rising  
@@ -307,23 +306,16 @@ Responsiveness
 
 ---  
 
-## Deployment  
-
--How site was deployed including live link  
-Git/GitHub/GitPod  
-
---- 
-
 ## Credits  
   
-### - Content References  
+### Content References  
     Hero image zoom - Love Running Project  
     Diagonal line tutorial - dev.to/snkds/how-to  
     Google map embed - W3Schools  
     Flexbox tutorial - Mozilla Developer Tools/Flexbox Froggy  
-### - Media References
+### Media References
     Images from pexels.com/unsplash.com  
     ~individuals name & image name  
-### - Acknowledgements
+### Acknowledgements
 
 
