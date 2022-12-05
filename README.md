@@ -8,8 +8,6 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
   
 ![screenshot of landing page](assets/documentation/readme_img1.png)
 
-
-
 ---
 
 ## CONTENTS  
@@ -49,7 +47,6 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Testing](#testing)
 * [Credits](#credits)  
   
-
 ---   
 <br> 
 
@@ -145,8 +142,7 @@ The site was developed to be simple, clear and familiar.
 - Corners on all elements were rounded to maintain a retro feel. 
 
 Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
-<br>   
-
+ 
 ---   
 
 <br>   
@@ -177,7 +173,6 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
 ### **Imagery**  
   
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
-<br>  
 
 ---  
 
@@ -257,8 +252,6 @@ Similar to the menu page design. Two sections for contacting the business with a
 </details>
 The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
 
-<br>  
-
 ---   
 
 <br>
@@ -277,8 +270,6 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 ### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**  
   
 ![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
-
-<br>  
 
 ---  
 
@@ -313,9 +304,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - Tiny PNG - to compress images 
 - Google Dev Tools - to debug and for testing responsiveness 
 - Google Lighthouse - for auditing the website
-- W3C Validator - for validating the HTML and CSS code
-  
-<br>  
+- W3C Validator - for validating the HTML and CSS code 
 
 ---   
 
@@ -334,8 +323,8 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 5. In the Source section, choose 'main' from the drop down select branch menu
 6. Select 'root' from the drop down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
-   
-<br>  
+
+![screenshot of how to deploy site on github](assets/documentation/deployment.png) 
 
 ---  
 
@@ -354,7 +343,24 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
   
 ### **Testing**    
 
-Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. 
+Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The results of feature testing are as follows:  
+  
+| Page | Test | Pass/Fail |
+| :----| :----| :--------:|
+| All  | SCOOPS logo links back to homepage | Pass |
+| All  | Underline appears under navigation items when mouse hovers | Pass |
+| All  | Underline stays under active navigation item | Pass |
+| All  | Navigation links bring user to relevant page | Pass |
+| All  | Footer social media icons bring user to relevant sites via new tab | Pass |
+| All  | 'Find Us' heading in footer links to contact page | Pass |
+| All  | Images and sections are responsive in different media sizes | Pass |
+| Index| Hero image zooms in on loading | Pass |
+| Index| Call to Action button links to menu page | Pass | 
+| Menu | Menu is scrollable | Pass |
+| Menu | Menu items are clear and legible | Pass |
+| Contact | Contact form required elements are responsive | Pass |
+| Contact | Form submit button brings you to validation page | Pass |
+| Contact | Google Map is interactive and opens in new tab for larger map | Pass |
   
 
   
