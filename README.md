@@ -281,9 +281,9 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 
 ---  
 
-## Testing  
+## **Testing**  
 
-### Initial testing plan
+### **Initial testing plan**
 
 I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information within one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site half way through to test on real world devices. These devices included:  
 - Acer Aspire 3 Laptop (1920 X 1080)  
@@ -292,16 +292,41 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
 - iPhone SE(2016)
 - Huawei p30 Lite  
   
-### Testing    
+### **Testing**    
 
 Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. 
   
 
   
-### HTML Validation using W3C Validation  
-![screenshot of validation]  
+### **HTML Validation using W3C Validation**  
+<details open>
+<summary>Index/landing page HTML validation</summary>  
+
+![screenshot of index page w3c html validation for SCOOPS](assets/documentation/w3c_index.png)
+</details>   
+  
+<details>
+<summary>Menu page HTML validation</summary>  
+
+![screenshot of menu page w3c html validation for SCOOPS](assets/documentation/w3c_menu.png)
+</details>  
+
+<details>
+<summary>Contact page HTML validation</summary>  
+
+![screenshot of contact page w3c html validation for SCOOPS](assets/documentation/w3c_contact.png)
+</details>  
+  
+
 ### CSS Validation using W3C Validation  
-[screenshot of validation]  
+
+<details open>
+<summary>SCOOPS CSS validation</summary>  
+
+![screenshot of CSS validation for SCOOPS](assets/documentation/w3c_css.png)
+</details>  
+
+  
 ### Lighthouse scores via Chrome Developer Tools  
 [screenshots of validation]  
 ### Adobe Color tool validation for contrast ratio/color blindness  
