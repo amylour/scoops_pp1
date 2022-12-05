@@ -304,39 +304,45 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 
 ![screenshot of index page w3c html validation for SCOOPS](assets/documentation/w3c_index.png)
 </details>   
-  
 <details>
 <summary>Menu page HTML validation</summary>  
 
 ![screenshot of menu page w3c html validation for SCOOPS](assets/documentation/w3c_menu.png)
 </details>  
-
 <details>
 <summary>Contact page HTML validation</summary>  
 
 ![screenshot of contact page w3c html validation for SCOOPS](assets/documentation/w3c_contact.png)
 </details>  
   
+<br>  
 
-### CSS Validation using W3C Validation  
+### **CSS Validation using W3C Validation** 
 
 <details open>
 <summary>SCOOPS CSS validation</summary>  
 
 ![screenshot of CSS validation for SCOOPS](assets/documentation/w3c_css.png)
-</details>  
+</details>   
 
+<br>  
+
+### **Lighthouse scores via Chrome Developer Tools**   
   
-### Lighthouse scores via Chrome Developer Tools  
-[screenshots of validation]  
-### Adobe Color tool validation for contrast ratio/color blindness  
-[screenshot of validation]  
--Links to official documentation downloaded from validation services  
+For Desktop   
+<details open>
+<summary>Lighthouse audit for index page</summary>  
+
+![screenshot of lighthouse audit for index page for SCOOPS](assets/documentation/lighthouse_index.png)
+</details> 
+<details >
+<summary>Lighthouse audit for menu page</summary>  
+
+![screenshot of lighthouse audit for menu page for SCOOPS](assets/documentation/lighthouse_menu.png)
+</details>      
+
  
-### Personal Testing  
-Tested on Chrome (Acer Aspire3 laptop), Safari (iPad Pro), Android  
-(Huawei p30 lite),  iOS (iPhone SE)  
-Testing across browsers: Chrome, Firefox, Edge, Safari  
+  
   
 ### Bugs & Fixes  
 White space RHS webpage - padding issue in footer - developer mistype  
