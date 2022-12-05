@@ -5,7 +5,7 @@
 SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.
 
 ---
-![Responsive media screen image here](assets/documentation/amiresponsive.png)
+
 
 ---
 
