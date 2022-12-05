@@ -5,7 +5,7 @@
 SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.  
 
 <br>
----
+
 
 
 ---
@@ -49,8 +49,7 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
   
 <br>  
   
----  
-  
+---   
 <br>
 
 ## User Experience (UX)  
@@ -80,11 +79,9 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 ### **Frequent Visitor**  
   - A user can see opening hours quickly by scrolling down the landing page.
   - A user can view the social media links to check for menu updates.  
-
 <br>  
 
 ---
-  
 <br>  
 
 ## Creation Process  
@@ -148,8 +145,7 @@ The site was developed to be simple, clear and familiar.
 - Corners on all elements were rounded to maintain a retro feel. 
 
 Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
-
-<br>  
+<br>   
 
 ---   
 
@@ -181,7 +177,6 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
 ### **Imagery**  
   
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
-
 <br>  
 
 ---  
@@ -189,55 +184,85 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 <br>  
 
 ## Page Features  
-### **Navbar**  
+
+### **Navbar**   
+<details open>
+<summary></summary>  
 
 ![screenshot of navbar](assets/documentation/navbar.png) 
-
+</details>
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
+  
+<br>  
 
 ### **Hero Image**  
+<details open>  
+<summary></summary>
 
 ![screenshot of hero image](assets/documentation/heroimage.png)  
-
+</details>
 The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
 
+<br> 
+
 ### **Tagline & Call to Action**  
+<details open>
+<summary></summary> 
 
 ![screenshot of tagline and button](assets/documentation/tagline.png)  
+</details>
+The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
-The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site. 
+<br>
 
 ### **Business Ethos**  
+<details> 
+<summary></summary>
 
 ![screenshot of ethos and images](assets/documentation/aboutus.png)  
 
 ![screenshot of ethos and images](assets/documentation/dairy.png)  
 
 ![screenshot ethos and images](assets/documentation/hereortogo.png)  
+</details>
+Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.  
 
-Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.   
+<br>
   
-### **Menu Page**  
+### **Menu Page** 
+<details>
+<summary></summary> 
 
 ![screenshot of menu page](assets/documentation/menu.png)  
-
+</details>
 The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
 
+<br>
+
 ### **Contact Page**  
-
+<details>
+<summary></summary> 
+ 
 ![screenshot of contact us page](assets/documentation/contact_page.png)  
-
+</details>
 Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
 
+<br>
+
 ### **Footer**  
+<details>
+<summary></summary>
 
 ![screenshot of footer](assets/documentation/footer.png) 
-
+</details>
 The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
 
 <br>  
+
 ---   
-  
+
+<br>
+
 ## Tablet & Mobile View  
  
 ### **Desktop, Tablet & Mobile Differences**  
@@ -381,10 +406,10 @@ For Desktop
 ![screenshot of lighthouse audit for contact page for SCOOPS](assets/documentation/lighthouse_contact.png)
 </details>      
 
- 
+<br>
   
   
-### Bugs & Fixes  
+### **Bugs & Fixes**  
 White space RHS webpage - padding issue in footer - developer mistype  
 Contrast ratio - adjusting colors  
 Flexbox issues - business ethos and images spacing, footer rising  
@@ -394,14 +419,19 @@ Responsiveness
 
 ## Credits  
   
-### Content References  
-    Hero image zoom - Love Running Project  
-    Diagonal line tutorial - dev.to/snkds/how-to  
-    Google map embed - W3Schools  
-    Flexbox tutorial - Mozilla Developer Tools/Flexbox Froggy  
-### Media References
+### **Content References**
+
+- [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material and 'content zoom' module in the Love Running project
+- [W3Schools](https://www.w3schools.com/) for additional learning material
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance
+- [dev.to](https://dev.to/snkds/how-to-create-striped-backgrounds-with-css-5dfn) for the CSS diagonal stripes tutorial
+- [Browserstack](https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints#:~:text=Essentially%2C%20media%20query%20breakpoints%20are,offers%20an%20optimal%20user%20experience.) for media queries and breakpoints guidance
+- [Kera Cudmore - Creating your First README] 
+### **Media References**
     Images from pexels.com/unsplash.com  
     ~individuals name & image name  
-### Acknowledgements
-
+### **Acknowledgements** 
+- I would like to acknowledge my Code Institute mentor, Rahul Lakhanpal, for his guidance and encouragement on this project.
+- My family for testing my work and offering positive thoughts and hot cups of tea throughout the project.
+- Kera Cudmore, Code Institute student, for her extensive README tutorial material.
 
