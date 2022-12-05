@@ -158,14 +158,14 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
   
 ![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
-## Font/Typography  
+### Font/Typography  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
   
 ![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
 
         
-## Imagery  
+### Imagery  
   
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
         
@@ -282,6 +282,21 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 ---  
 
 ## Testing  
+
+### Initial testing plan
+
+I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information within one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site half way through to test on real world devices. These devices included:  
+- Acer Aspire 3 Laptop (1920 X 1080)  
+- Huawei AD80HW 24" Monitor
+- i Pad Pro 2021
+- iPhone SE(2016)
+- Huawei p30 Lite  
+  
+### Testing    
+
+Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. 
+  
+
   
 ### HTML Validation using W3C Validation  
 [screenshot of validation]  
