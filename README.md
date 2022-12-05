@@ -420,18 +420,22 @@ Responsiveness
 ## Credits  
   
 ### **Content References**
-
+- All content written for the website is by myself, is purely fictional and for educational purposes only.
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material and 'content zoom' module in the Love Running project
 - [W3Schools](https://www.w3schools.com/) for additional learning material
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance
 - [dev.to](https://dev.to/snkds/how-to-create-striped-backgrounds-with-css-5dfn) for the CSS diagonal stripes tutorial
 - [Browserstack](https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints#:~:text=Essentially%2C%20media%20query%20breakpoints%20are,offers%20an%20optimal%20user%20experience.) for media queries and breakpoints guidance
-- [Kera Cudmore - Creating your First README] 
-### **Media References**
-    Images from pexels.com/unsplash.com  
-    ~individuals name & image name  
+- [Kera Cudmore - Creating your First README](https://github.com/kera-cudmore/readme-examples) for README structure and Markdown guidance  
+  
+
+### **Media References**  
+  
+- [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), and [Pixabay](https://pixabay.com/) for all images used on this site.
+
+
 ### **Acknowledgements** 
 - I would like to acknowledge my Code Institute mentor, Rahul Lakhanpal, for his guidance and encouragement on this project.
 - My family for testing my work and offering positive thoughts and hot cups of tea throughout the project.
-- Kera Cudmore, Code Institute student, for her extensive README tutorial material.
+
 
