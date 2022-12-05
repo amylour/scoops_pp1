@@ -299,7 +299,7 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
 
   
 ### HTML Validation using W3C Validation  
-[screenshot of validation]  
+![screenshot of validation]  
 ### CSS Validation using W3C Validation  
 [screenshot of validation]  
 ### Lighthouse scores via Chrome Developer Tools  
