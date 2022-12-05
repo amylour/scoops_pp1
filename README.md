@@ -2,8 +2,9 @@
 
 [View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
 
-SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.
+SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.  
 
+<br>
 ---
 
 
@@ -44,43 +45,51 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Deployment](#deployment)
   * [How to deploy](#how-to-deploy)
 * [Testing](#testing)
-* [Credits](#credits)
- 
-
+* [Credits](#credits)  
+  
+<br>  
+  
+---  
+  
+<br>
 
 ## User Experience (UX)  
   
-### User Stories  
+### **User Stories**  
 
-### Primary Goal  
+### **Primary Goal**  
   
 SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlours traditional flavours and aesthetic. 
 
-### Visitor Goals  
+### **Visitor Goals** 
 
 SCOOPS customers vary in age and it was a requirement that the website be straight to the point and easy to use for those seeking information about the menu, location and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
 
-### First Time Visitor
+### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
   - A user can access the menu and prices via the button located at the center of the landing page.
   - A user can view the opening times and location via the footer.
   - A user can find a map to the parlour via the navigation bar and footer.
 
-### Returning Visitor  
+### **Returning Visitor**  
   - A user can quickly access the menu via the landing page to check menu options and prices.
   - A user can learn about the business ethos by scrolling down the landing page.
   - A user can find social media links in the footer to learn more about SCOOPS.
   - A user can use the contact form to connect with the business.
   
-### Frequent Visitor  
+### **Frequent Visitor**  
   - A user can see opening hours quickly by scrolling down the landing page.
   - A user can view the social media links to check for menu updates.  
-  
+
+<br>  
+
 ---
+  
+<br>  
 
 ## Creation Process  
   
-### 1. Strategy  
+### **1. Strategy**  
 
 
 - I required an easy to read, dependable website that delivers clear information about menu options and opening times.  
@@ -90,7 +99,7 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 - Mobile responsiveness is an essential feature required for this website.
   
 
-### 2. Scope  
+### **2. Scope**  
 
 The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
 
@@ -100,7 +109,7 @@ The SCOOPS site must be available on a wide range of devices due to the varied r
 - For future developement, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials and candid shots of customers and staff.
   
 
-### 3. Structural  
+### **3. Structural**  
 
 Similar to the request of the design and layout being accessible and functional, simple navigation and interactivity was essential. It was necessary that the site provide information swiftly no matter the age of the user.  
 - Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
@@ -109,7 +118,7 @@ Similar to the request of the design and layout being accessible and functional,
 - In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information-destination, strengthening the site's familiar and trusting feeling.  
 
   
-### 4. Skeleton  
+### **4. Skeleton**  
 
 The site was developed to be simple, clear and familiar.  
 
@@ -130,7 +139,7 @@ The site was developed to be simple, clear and familiar.
     [screenshots]  
     Wireframes done pen and paper, thidied up in Procreate, will develop further on Balsamiq/Figma   
 
-### 5. Surface  
+### **5. Surface**  
 
  A design was created that allowed a consistent flow throughout the three page site.   
  - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
@@ -138,13 +147,17 @@ The site was developed to be simple, clear and familiar.
 - A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
 - Corners on all elements were rounded to maintain a retro feel. 
 
-Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.
+Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
 
----  
+<br>  
+
+---   
+
+<br>   
   
 ## Design  
 
-### Color Scheme  
+### **Color Scheme**  
 
 This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
@@ -158,39 +171,43 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
   
 ![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
-### Font/Typography  
+### **Font/Typography**  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
   
 ![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
 
         
-### Imagery  
+### **Imagery**  
   
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
-        
+
+<br>  
+
 ---  
 
+<br>  
+
 ## Page Features  
-### Navbar  
+### **Navbar**  
 
 ![screenshot of navbar](assets/documentation/navbar.png) 
 
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
 
-### Hero Image  
+### **Hero Image**  
 
 ![screenshot of hero image](assets/documentation/heroimage.png)  
 
 The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
 
-### Tagline & Call to Action  
+### **Tagline & Call to Action**  
 
 ![screenshot of tagline and button](assets/documentation/tagline.png)  
 
 The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site. 
 
-### Business Ethos  
+### **Business Ethos**  
 
 ![screenshot of ethos and images](assets/documentation/aboutus.png)  
 
@@ -200,40 +217,47 @@ The tagline image has it's opacity set to allow the hero image to still show thr
 
 Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.   
   
-### Menu Page  
+### **Menu Page**  
 
 ![screenshot of menu page](assets/documentation/menu.png)  
 
 The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
 
-### Contact Page  
+### **Contact Page**  
 
 ![screenshot of contact us page](assets/documentation/contact_page.png)  
 
 Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
 
-### Footer  
+### **Footer**  
 
 ![screenshot of footer](assets/documentation/footer.png) 
 
-The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading. 
+The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
+
+<br>  
+---   
   
 ## Tablet & Mobile View  
  
-### Desktop, Tablet & Mobile Differences  
+### **Desktop, Tablet & Mobile Differences**  
   
 To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections and contact sections were displayed in a row format for desktops but this switched to column for smaller screensizes. The header and footer remained the same, whilst images were resized to fit the display.
   
-### Tablet View (iPad Mini/iPad Pro/Surface Pro)  
+### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
   
 ![screenshots of SCOOPS website on ipad pro](assets/documentation/tablet_view.png)
 
 
-### Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)  
+### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**  
   
 ![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
-  
+
+<br>  
+
 ---  
+
+<br>                               
 
 ## Future Features  
 
@@ -241,16 +265,18 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
 - A gallery page of dessert specials, events held at the parlour and candid photos of customers and staff.
   
----  
-## Technologies Used  
----  
+---   
 
-### Languages Used   
+<br>  
+
+## Technologies Used    
+
+### **Languages Used**   
 
 - HTML5
 - CSS3
 
-### Frameworks, Libraries, Technologies & Programs Used  
+### **Frameworks, Libraries, Technologies & Programs Used**  
 
 - Procreate - used to create wireframes and editing images 
 - Github - used to save and store all files for this website  
@@ -263,11 +289,16 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - Google Dev Tools - to debug and for testing responsiveness 
 - Google Lighthouse - for auditing the website
 - W3C Validator - for validating the HTML and CSS code
+  
+<br>  
 
 ---   
+
+<br> 
+
 ## Deployment
 
-### How to deploy  
+### **How to deploy**  
 
 Github was used to deploy the website. These were the steps taken to acheive this:  
 
@@ -278,10 +309,14 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 5. In the Source section, choose 'main' from the drop down select branch menu
 6. Select 'root' from the drop down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
+   
+<br>  
 
 ---  
 
-## **Testing**  
+<br>    
+
+## Testing  
 
 ### **Initial testing plan**
 
@@ -331,14 +366,19 @@ Testing took place throughout the entire build using Dev Tools on Chrome and on 
   
 For Desktop   
 <details open>
-<summary>Lighthouse audit for index page</summary>  
+<summary>Lighthouse audit for Index page</summary>  
 
 ![screenshot of lighthouse audit for index page for SCOOPS](assets/documentation/lighthouse_index.png)
 </details> 
 <details >
-<summary>Lighthouse audit for menu page</summary>  
+<summary>Lighthouse audit for Menu page</summary>  
 
 ![screenshot of lighthouse audit for menu page for SCOOPS](assets/documentation/lighthouse_menu.png)
+</details>
+<details >
+<summary>Lighthouse audit for Contact page</summary>  
+
+![screenshot of lighthouse audit for contact page for SCOOPS](assets/documentation/lighthouse_contact.png)
 </details>      
 
  
