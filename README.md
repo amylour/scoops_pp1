@@ -452,10 +452,13 @@ For Mobile
   
   
 ### **Bugs & Fixes**  
-White space RHS webpage - padding issue in footer - developer mistype  
-Contrast ratio - adjusting colors  
-Flexbox issues - business ethos and images spacing, footer rising  
-Responsiveness  
+  
+| Bug | Section | Fix |
+| :----| :----| :--------:|
+| Whitespace added to right hand side of webpages | All pages | Using Dev Tools , I added a thin red border to every element in my website. From this I discovered that I had mistyped a value in my footer padding section and made it to large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
+| Flexbox issues with positioning business ethos section - elements bunched together | Index/Home page | As I was learning flexbox whilst completing the project, I had not yet fully understood the div parent/child relationship. I consulted the Mozilla Developer Docs for Flexbox and discovered that I was not using enough divs for the elements to display correctly. I placed each of my heading, paragraph and images within divs and applied flexbox properties to their parent divs and themselves. Assigning flex-direction: row and justify-content: space-around/space-between solved my issue, with each of the elements positioning themselves with appropriate spacing between. I then applied this structure to the remaining two ethos items. |
+| br element in li element  |  |  |
+| Viewport metadata  |  | |
 
 ---  
 
