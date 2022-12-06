@@ -88,7 +88,6 @@ header {
     border: 4px solid #78d5f7;
     border-radius: 15px;
     box-shadow: rgba(120, 213, 247, 0.9) 0 0 13px 13px;
-
     background: url('../images/icecreamcounter.jpg') no-repeat center center;
     position: absolute;
     /* animates zoom effect on index page */
@@ -102,7 +101,6 @@ header {
     from {
         transform: scale(1);
     }
-
     to {
         transform: scale(1.05);
     }
@@ -138,8 +136,7 @@ header {
     padding: 10px;
     margin: 10px;
     border-radius: 12px;
-    text-transform: none;
-    
+    text-transform: none;   
 }
 
 .button a {
@@ -193,8 +190,7 @@ header {
 .about-image img {
     border-radius: 15px;
     height: 465px;  
-    width: 315px;
-    
+    width: 315px;  
 }
 
 .ingredients {
@@ -417,7 +413,6 @@ header {
     margin: .55rem;
 }
 
-
 /* contact form */
 
 #contact-container {
@@ -498,8 +493,7 @@ textarea {
 
 #textarea {
     display: block;
-    margin: 0 auto;
-    
+    margin: 0 auto; 
 }
 
 .submit-button {
