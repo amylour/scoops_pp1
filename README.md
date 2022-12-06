@@ -47,8 +47,7 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Testing](#testing)
 * [Credits](#credits)  
   
----   
-<br> 
+---    
 
 ## User Experience (UX)  
   
@@ -78,8 +77,7 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
   - A user can see opening hours quickly by scrolling down the landing page.
   - A user can view the social media links to check for menu updates.    
 
----
-<br>  
+--- 
 
 ## Creation Process  
   
@@ -166,8 +164,7 @@ The site was developed to be simple, clear and familiar.
 Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
  
 ---   
-
-<br>   
+  
   
 ## Design  
 
@@ -197,8 +194,7 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
 The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
 
 ---  
-
-<br>  
+  
 
 ## Page Features  
 
@@ -276,7 +272,6 @@ The footer remains the same throughout the design. It contains important informa
 
 ---   
 
-<br>
 
 ## Tablet & Mobile View  
  
@@ -294,8 +289,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 ![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
 
 ---  
-
-<br>                               
+                              
 
 ## Future Features  
 
@@ -304,8 +298,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - A gallery page of dessert specials, events held at the parlour and candid photos of customers and staff.
   
 ---   
-
-<br>  
+  
 
 ## Technologies Used    
 
@@ -329,8 +322,7 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 - W3C Validator - for validating the HTML and CSS code 
 
 ---   
-
-<br> 
+ 
 
 ## Deployment
 
@@ -349,8 +341,7 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 ![screenshot of how to deploy site on github](assets/documentation/deployment.png) 
 
 ---  
-
-<br>    
+    
 
 ## Testing  
 
@@ -442,6 +433,23 @@ For Desktop
 
 <br>
   
+For Mobile   
+<details open>
+<summary>Lighthouse audit for Index page - Mobile</summary>  
+
+![screenshot of lighthouse audit for index page for SCOOPS](assets/documentation/mobileindex_lighthouse.png)
+</details> 
+<details >
+<summary>Lighthouse audit for Menu page - Mobile</summary>  
+
+![screenshot of lighthouse audit for menu page for SCOOPS](assets/documentation/mobilemenu_lighthouse.png)
+</details>
+<details >
+<summary>Lighthouse audit for Contact page - Mobile</summary>  
+
+![screenshot of lighthouse audit for contact page for SCOOPS](assets/documentation/mobilecontact_lighthouse.png)
+</details>      
+  
   
 ### **Bugs & Fixes**  
 White space RHS webpage - padding issue in footer - developer mistype  
@@ -459,6 +467,8 @@ Responsiveness
 - [W3Schools](https://www.w3schools.com/) for additional learning material.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance.
 - [dev.to](https://dev.to/snkds/how-to-create-striped-backgrounds-with-css-5dfn) for the CSS diagonal stripes tutorial.
+- Alan from Code Institute Tutor Support for helping me with an element width issue in my media queries.
+- [StackOverflow](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements) guidance on removing br element from menu li items to improve semantic HTML
 - [Browserstack](https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints#:~:text=Essentially%2C%20media%20query%20breakpoints%20are,offers%20an%20optimal%20user%20experience.) for media queries and breakpoints guidance.
 - [Kera Cudmore - Creating your First README](https://github.com/kera-cudmore/readme-examples) for README structure and Markdown guidance. 
   
