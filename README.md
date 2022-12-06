@@ -129,9 +129,31 @@ The site was developed to be simple, clear and familiar.
 - Below the map again are the location details for the shop with a phone number to contact them.  
 
 ### Wireframes  
-    Desktop, iPad, Mobile  
-    [screenshots]  
-    Wireframes done pen and paper, thidied up in Procreate, will develop further on Balsamiq/Figma   
+<details open>
+<summary>Wireframe - Homepage Desktop & Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](assets/documentation/homemd_wireframe.png)
+</details> 
+<details >
+<summary>Wireframe - Menu page Desktop</summary>  
+
+![homepage wireframe-mobile & desktop](assets/documentation/menudesktop_wireframe.png)
+</details> 
+<details>
+<summary>Wireframe - Menu page Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](assets/documentation/menumobile_wireframe.png)
+</details>    
+<details>
+<summary>Wireframe - Contact page Desktop</summary>  
+
+![homepage wireframe-mobile & desktop](assets/documentation/contactdesktop_wireframe.png)
+</details> 
+<details>
+<summary>Wireframe - Contact page Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](assets/documentation/contactmobile_wireframe.png)
+</details>              
 
 ### **5. Surface**  
 
@@ -343,7 +365,13 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
   
 ### **Testing**    
 
-Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The results of feature testing are as follows:  
+Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
+- Chrome  
+- Firefox  
+- Edge  
+- Safari  
+  
+The results of feature testing are as follows:  
   
 | Page | Test | Pass/Fail |
 | :----| :----| :--------:|
