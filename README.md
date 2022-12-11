@@ -43,6 +43,7 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
   * [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
   * [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
   * [Bugs & Fixes](#bugs--fixes)
+  * [Unsolved Bugs](#unsolved-bugs)
 * [Credits](#credits) 
 
   
@@ -386,7 +387,7 @@ Further device testing took place in Dev Tools on:
   - iPhone 4/5/6/7/8
   - iPhone XR/ iPhone 12 Pro
   - Pixel 5
-  - Samsung galaxy s20
+  - Samsung Galaxy s20
 
  
 ### **HTML Validation using W3C Validation**  
@@ -461,10 +462,17 @@ For Mobile
   
 | Bug | Section | Fix |
 | :----| :----| :--------:|
-| Whitespace added to right hand side of webpages | All pages | Using Dev Tools , I added a thin red border to every element in my website. From this I discovered that I had mistyped a value in my footer padding section and made it to large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
+| Whitespace added to right hand side of webpages | All pages | Using Dev Tools , I added a thin red border to every element in my website. From this I discovered that I had mistyped a value in my footer padding section and made it too large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
+| Nesting button element & anchor element | Index/Home page | When running an early W3C validation test, I discovered that I had made an error by placing a button element inside an anchor element within my tagline section. Semantically, this was incorrect. I considered using a span element instead and upon consulting Stackoverlfow and this [post](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) I confirmed my understanding. I re-checked my HTML code with W3C Validator and my live site to find the issue resolved. |
 | Flexbox issues with positioning business ethos section - elements bunched together | Index/Home page | As I was learning flexbox whilst completing the project, I had not yet fully understood the div parent/child relationship. I consulted the Mozilla Developer Docs for Flexbox and discovered that I was not using enough divs for the elements to display correctly. I placed each of my heading, paragraph and images within divs and applied flexbox properties to their parent divs and themselves. Assigning flex-direction: row and justify-content: space-around/space-between solved my issue, with each of the elements positioning themselves with appropriate spacing between. I then applied this structure to the remaining two ethos items. |
 | br element in li element  | Menu Page |  Semantically I made an error by using the br element to make space between my menu items. On performing the W3C validation test, I became aware of this error. I considered using margin-top to fix the issue. I Googled the issue to understand my error further and came across a [Stackoverflow post](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements), with a comment from Quentin detailing how to use margin-top avoiding the first child element of the parent div. I used this piece of code in my CSS file to control the spacing between the menu items after understanding the code fully. |
-| Viewport meta tag  | Head section/All Pages | On first deploying my website to real devices, the mobile pages were appearing zoomed in upon loading. They appeared normally on Dev Tools mobile testing sizes. I checked my CSS code and my viewport meta tag for any obvious errors. Upon finding none I consulted Stackoverflow to find this [post](https://stackoverflow.com/questions/14272420/webpage-starts-zoomed-in-on-mobile-devices). I removed the initial-scale=1.0 from the viewport meta tag, leaving only width=device-width, I ran the code through the W3c Validator to find no errors. This fixed the issue on all real-world mobile and tablet devices |
+| Viewport meta tag  | Head section/All pages | On first deploying my website to real devices, the mobile pages were appearing zoomed in upon loading. They appeared normally on Dev Tools mobile testing sizes. I checked my CSS code and my viewport meta tag for any obvious errors. Upon finding none I consulted Stackoverflow to find this [post](https://stackoverflow.com/questions/14272420/webpage-starts-zoomed-in-on-mobile-devices). I removed the initial-scale=1.0 from the viewport meta tag, leaving only width=device-width, I ran the code through the W3C Validator to find no errors. This fixed the issue on all real-world mobile and tablet devices |
+
+### **Unsolved Bugs** 
+
+On viewing my deployed site on Safari browser, I found the Josefin Sans font to be displaying differently in the header elements. The website still displayed adequately despite this issue. I will continue my learning to understand how to combat small, browser display differences to discover if I can overcome this.
+
+On occassion, when viewing my website in Dev Tools, a small amount of whitespace appears to the right of the Home page. When I refresh the page or clear the cache, this issue resolves itself. I have not figured out yet as to why this happens on rare occassion.
 
 ---  
 
