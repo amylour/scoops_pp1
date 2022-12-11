@@ -39,7 +39,12 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Deployment](#deployment)
   * [How to deploy](#how-to-deploy)
 * [Testing](#testing)
-* [Credits](#credits)  
+  * [HTML Validation using W3C Validation](#html-validation-using-w3c-validation)
+  * [CSS Validation using W3C Validation](#css-validation-using-w3c-validation)
+  * [Lighthouse scores via Chrome Developer Tools](#lighthouse-scores-via-chrome-developer-tools)
+  * [Bugs & Fixes](#bugs--fixes)
+* [Credits](#credits) 
+
   
 ---    
 
