@@ -2,7 +2,7 @@
 
 [View live project here on GitHub](https://amylour.github.io/scoops_pp1/)
 
-SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westmeath. Providing home baked warm goods, memorable ice-cream desserts and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site's intention was to be a clear, dependable reference for every visit.  
+SCOOPS Ice-Cream Parlour is a family-run, local business in Mullingar, Co.Westmeath. Providing home-baked warm goods, memorable ice-cream desserts, and delicious hot drinks in a cosy environment. The site was designed to invoke a nostalgic, homely feeling that centered around the product; traditionally-made fresh ice cream. The site intended to be a clear, dependable reference for every visit.  
 
 <br>  
   
@@ -55,11 +55,11 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 
 ### **Primary Goal**  
   
-SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlours traditional flavours and aesthetic. 
+SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlour's traditional flavours and aesthetic. 
 
 ### **Visitor Goals** 
 
-SCOOPS customers vary in age and it was a requirement that the website be straight to the point and easy to use for those seeking information about the menu, location and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
+SCOOPS customers vary in age and it was a requirement that the website is straight to the point and easy to use for those seeking information about the menu, location, and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for the opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
@@ -84,7 +84,7 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 ### **1. Strategy**  
 
 
-- I required an easy to read, dependable website that delivers clear information about menu options and opening times.  
+- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
 - Location of the shop must be visible and social media links available.  
 - The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
 - Pricing within the menu page is to be transparent and simple.  
@@ -96,34 +96,34 @@ SCOOPS customers vary in age and it was a requirement that the website be straig
 The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
 
 - The site is to contain only essential information, presented in a similar fashion and layout.   
-- Text must be clear and legible on any sized device to allow the user instant access to the menu, location and opening times.  
+- Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.  
 - A brief history of the business is to be included on the landing page.  
-- For future developement, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials and candid shots of customers and staff.
+- For future development, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials, and candid shots of customers and staff.
   
 
 ### **3. Structural**  
 
-Similar to the request of the design and layout being accessible and functional, simple navigation and interactivity was essential. It was necessary that the site provide information swiftly no matter the age of the user.  
+Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity were essential. The site needed to provide information swiftly no matter the age of the user.  
 - Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
 - Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic.  
 - A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.  
-- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information-destination, strengthening the site's familiar and trusting feeling.  
+- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information destination, strengthening the site's familiar and trusting feeling.  
 
   
 ### **4. Skeleton**  
 
-The site was developed to be simple, clear and familiar.  
+The site was developed to be simple, clear, and familiar.  
 
 - For the landing page, the logo, SCOOPS, was to be top-left of every page, no matter the orientation or screen size.  
-- The simple, three item navigation bar of 'Home', 'Menu' and 'Contact', situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate.  
+- The simple, three-item navigation bar of 'Home', 'Menu', and 'Contact', is situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate.  
 - A large, clear image dominates the landing page with a close-up view of the available ice cream flavours, their texture visible.  
-- Centered in the image is a tagline with a large, clickable button situated immediately below it. For first time visitors, they have access to the menu with one easy click.  
-- For returning or curious visitors, scrolling down the page introduces them to a brief, three piece, information section about the SCOOPS business. Images are visible to one side of the headed paragraphs.  
-- The page ends with the footer, again offering three pieces of important information to the user, opening times, location and social media.  
+- Centered in the image is a tagline with a large, clickable button situated immediately below it. First-time visitors have access to the menu with one easy click.  
+- For returning or curious visitors, scrolling down the page introduces them to a brief, three-piece of information section about the SCOOPS business. Images are visible on one side of the headed paragraphs.  
+- The page ends with the footer, again offering three pieces of important information to the user, opening times, location, and social media.  
 
-- For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors decision.  
+- For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors' decision.  
   
-- For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. Their is an option to enlarge the map in a new window and find directions.  
+- For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.  
 - Below the map again are the location details for the shop with a phone number to contact them.  
 
 ### Wireframes  
@@ -155,7 +155,7 @@ The site was developed to be simple, clear and familiar.
 
 ### **5. Surface**  
 
- A design was created that allowed a consistent flow throughout the three page site.   
+ A design was created that allowed a consistent flow throughout the three-page site.   
  - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
 - A palette of blues and reds was created, similar to the interior of the parlour.  
 - A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
@@ -178,7 +178,7 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
   
 ![Colour contrast ratio for buttons](assets/documentation/buttoncontrast.png)  
   
-[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accesible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
+[Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
   
 ![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
@@ -191,7 +191,7 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
         
 ### **Imagery**  
   
-The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
+The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close-ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
 
 ---  
   
@@ -224,7 +224,7 @@ The hero image remains the same across all devices, with it becoming square-shap
 
 ![screenshot of tagline and button](assets/documentation/tagline.png)  
 </details>
-The tagline image has it's opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
+The tagline image has its opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
 <br>
 
@@ -277,7 +277,7 @@ The footer remains the same throughout the design. It contains important informa
  
 ### **Desktop, Tablet & Mobile Differences**  
   
-To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections and contact sections were displayed in a row format for desktops but this switched to column for smaller screensizes. The header and footer remained the same, whilst images were resized to fit the display.
+To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections, and contact sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
   
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
   
@@ -293,9 +293,9 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ## Future Features  
 
-- For future development I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.  
+- For future development, I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.  
 - An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
-- A gallery page of dessert specials, events held at the parlour and candid photos of customers and staff.
+- A gallery page of dessert specials, events held at the parlour, and candid photos of customers and staff.
   
 ---   
   
@@ -309,8 +309,8 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ### **Frameworks, Libraries, Technologies & Programs Used**  
 
-- Procreate - used to create wireframes and editing images 
-- Github - used to save and store all files for this website  
+- Procreate - used to create wireframes and edit images 
+- GitHub - used to save and store all files for this website  
 - Git - used for version control
 - Google Fonts - fonts were imported from here 
 - Font Awesome - icons and their associated kit were downloaded from here  
@@ -328,14 +328,14 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ### **How to deploy**  
 
-Github was used to deploy the website. These were the steps taken to acheive this:  
+GitHub was used to deploy the website. These were the steps taken to acheive this:  
 
-1. Login to Github account
+1. Login to GitHub account
 2. Navigate to the project repository, scoops_pp1
 3. Click the Settings button near the top of the page
 4. In the left-hand menu, find and click on the Pages button
-5. In the Source section, choose 'main' from the drop down select branch menu
-6. Select 'root' from the drop down folder menu
+5. In the Source section, choose 'main' from the drop-down, select branch menu
+6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
 ![screenshot of how to deploy site on github](assets/documentation/deployment.png) 
@@ -347,10 +347,10 @@ Github was used to deploy the website. These were the steps taken to acheive thi
 
 ### **Initial testing plan**
 
-I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information within one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site half way through to test on real world devices. These devices included:  
+I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information with one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:  
 - Acer Aspire 3 Laptop (1920 X 1080)  
 - Huawei AD80HW 24" Monitor
-- i Pad Pro 2021
+- iPad Pro 2021
 - iPhone SE(2016)
 - Huawei p30 Lite 
 - iPhone 11/13
@@ -369,10 +369,10 @@ The results of feature testing are as follows:
 | Page | Test | Pass/Fail |
 | :----| :----| :--------:|
 | All  | SCOOPS logo links back to homepage | Pass |
-| All  | Underline appears under navigation items when mouse hovers | Pass |
+| All  | Underline appears under navigation items when the mouse hovers | Pass |
 | All  | Underline stays under active navigation item | Pass |
-| All  | Navigation links bring user to relevant page | Pass |
-| All  | Footer social media icons bring user to relevant sites via new tab | Pass |
+| All  | Navigation links bring the user to relevant page | Pass |
+| All  | Footer social media icons bring the user to relevant sites via a new tab | Pass |
 | All  | 'Find Us' heading in footer links to contact page | Pass |
 | All  | Images and sections are responsive in different media sizes | Pass |
 | Index| Hero image zooms in on loading | Pass |
@@ -380,8 +380,8 @@ The results of feature testing are as follows:
 | Menu | Menu is scrollable | Pass |
 | Menu | Menu items are clear and legible | Pass |
 | Contact | Contact form required elements are responsive | Pass |
-| Contact | Form submit button brings you to validation page | Pass |
-| Contact | Google Map is interactive and opens in new tab for larger map | Pass |
+| Contact | Form submit button brings you to a validation page | Pass |
+| Contact | Google Map is interactive and opens in a new tab for a larger map | Pass |
 
 Further device testing took place in Dev Tools on:
   - iPhone 4/5/6/7/8
@@ -462,24 +462,24 @@ For Mobile
   
 | Bug | Section | Fix |
 | :----| :----| :--------:|
-| Whitespace added to right hand side of webpages | All pages | Using Dev Tools , I added a thin red border to every element in my website. From this I discovered that I had mistyped a value in my footer padding section and made it too large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
-| Nesting button element & anchor element | Index/Home page | When running an early W3C validation test, I discovered that I had made an error by placing a button element inside an anchor element within my tagline section. Semantically, this was incorrect. I considered using a span element instead and upon consulting Stackoverlfow and this [post](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) I confirmed my understanding. I re-checked my HTML code with W3C Validator and my live site to find the issue resolved. |
-| Flexbox issues with positioning business ethos section - elements bunched together | Index/Home page | As I was learning flexbox whilst completing the project, I had not yet fully understood the div parent/child relationship. I consulted the Mozilla Developer Docs for Flexbox and discovered that I was not using enough divs for the elements to display correctly. I placed each of my heading, paragraph and images within divs and applied flexbox properties to their parent divs and themselves. Assigning flex-direction: row and justify-content: space-around/space-between solved my issue, with each of the elements positioning themselves with appropriate spacing between. I then applied this structure to the remaining two ethos items. |
-| br element in li element  | Menu Page |  Semantically I made an error by using the br element to make space between my menu items. On performing the W3C validation test, I became aware of this error. I considered using margin-top to fix the issue. I Googled the issue to understand my error further and came across a [Stackoverflow post](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements), with a comment from Quentin detailing how to use margin-top avoiding the first child element of the parent div. I used this piece of code in my CSS file to control the spacing between the menu items after understanding the code fully. |
+| Whitespace added to right-hand side of webpages | All pages | Using Dev Tools, I added a thin red border to every element in my website. From this, I discovered that I had mistyped a value in my footer padding section and made it too large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
+| Nesting button element & anchor element | Index/Home page | When running an early W3C validation test, I discovered that I had made an error by placing a button element inside an anchor element within my tagline section. Semantically, this was incorrect. I considered using a span element instead and upon consulting Stackoverflow and this [post](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) I confirmed my understanding. I re-checked my HTML code with W3C Validator and my live site to find the issue resolved. |
+| Flexbox issues with positioning business ethos section - elements bunched together | Index/Home page | As I was learning flexbox whilst completing the project, I had not yet fully understood the div parent/child relationship. I consulted the Mozilla Developer Docs for Flexbox and discovered that I was not using enough divs for the elements to display correctly. I placed each of my headings, paragraphs, and images within divs and applied flexbox properties to their parent divs and themselves. Assigning flex-direction: row and justify-content: space-around/space-between solved my issue, with each of the elements positioning themselves with appropriate spacing between. I then applied this structure to the remaining two ethos items. |
+| br element in li element  | Menu Page |  Semantically I made an error by using the br element to make space between my menu items. On performing the W3C validation test, I became aware of this error. I considered using margin-top to fix the issue. I Googled the issue to understand my error further and came across a Stackoverflow [post](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements), with a comment from Quentin detailing how to use margin-top avoiding the first child element of the parent div. I used this piece of code in my CSS file to control the spacing between the menu items after understanding the code fully. |
 | Viewport meta tag  | Head section/All pages | On first deploying my website to real devices, the mobile pages were appearing zoomed in upon loading. They appeared normally on Dev Tools mobile testing sizes. I checked my CSS code and my viewport meta tag for any obvious errors. Upon finding none I consulted Stackoverflow to find this [post](https://stackoverflow.com/questions/14272420/webpage-starts-zoomed-in-on-mobile-devices). I removed the initial-scale=1.0 from the viewport meta tag, leaving only width=device-width, I ran the code through the W3C Validator to find no errors. This fixed the issue on all real-world mobile and tablet devices |
 
 ### **Unsolved Bugs** 
 
-On viewing my deployed site on Safari browser, I found the Josefin Sans font to be displaying differently in the header elements. The website still displayed adequately despite this issue. I will continue my learning to understand how to combat small, browser display differences to discover if I can overcome this.
+On viewing my deployed site on Safari browser, I found the Josefin Sans font to be displayed differently in the header elements. The website is still displayed adequately despite this issue. I will continue my learning to understand how to combat small, browser display differences to discover if I can overcome this.
 
-On occassion, when viewing my website in Dev Tools, a small amount of whitespace appears to the right of the Home page. When I refresh the page or clear the cache, this issue resolves itself. I have not figured out yet as to why this happens on rare occassion.
+On occasion, when viewing my website in Dev Tools, a small amount of whitespace appears to the right of the Home page. When I refresh the page or clear the cache, this issue resolves itself. I have not figured out yet why this happens on rare occasion.
 
 ---  
 
 ## Credits  
   
 ### **Content References**
-- All content written for the website is by myself, is purely fictional and for educational purposes only.
+- All content written for the website is by myself, is purely fictional, and for educational purposes only.
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material and 'content zoom' module in the Love Running project.
 - [W3Schools](https://www.w3schools.com/) for additional learning material.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance.
@@ -492,7 +492,7 @@ On occassion, when viewing my website in Dev Tools, a small amount of whitespace
 
 ### **Media References**  
   
-- [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), and [Pixabay](https://pixabay.com/) for all images used on this site. Credit to photographers Jonathan Cooper, Lukas, Katie Rainbow, Kyle Hinkson and Dulce Silvagni.
+- [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), and [Pixabay](https://pixabay.com/) for all images used on this site. Credit to photographers Jonathan Cooper, Lukas, Katie Rainbow, Kyle Hinkson, and Dulce Silvagni.
 - [Font Awesome](https://fontawesome.com/) for the icons used in the footer of this site.
 - [Favicon](https://favicon.io/) for the favicon used for this site.
 - [Google Maps](https://www.google.com/maps) for the map used in this site.
