@@ -13,29 +13,24 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 ## CONTENTS  
   
 * [UXD (User Experience Design)](#user-experience-ux)
-  * [Primary Goal](#primary-goal)
   * [User Stories](#user-stories)
 * [Creation process (Strategy -> Surface)](#creation-process)
-  * [Strategy](#1-strategy)
-  * [Scope](#2-scope)
-  * [Structural](#3-structural)
-  * [Skeleton](#4-skeleton)   
-  * [Surface](#5-surface)
+  * [Wireframes](#wireframes)
 * [Design](#design)
   * [Colour Scheme](#color-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-  * [Wireframes](#wireframes)   
+     
 * [Page Features](#page-features)
   * [Navbar](#navbar)
   * [Hero-Image](#hero-image)
   * [Tagline & Call to Action](#tagline--call-to-action)
   * [Business Ethos](#business-ethos)
   * [Menu Page](#menu-page)
-  * [Contact Us](#contact-us-page)
+  * [Contact Page](#contact-page)
   * [Footer](#footer)  
-* [Mobile View](#mobile-view)
-  * [Desktop/Tablet/Mobile Differences](#desktoptabletmobile-differences)
+* [Tablet & Mobile View](#tablet--mobile-view)
+  * [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
   * [Tablet View](#tablet-view-ipad-miniipad-prosurface-pro)
   * [Mobile View](#mobile-view-iphone-5iphone-seiphone-xriphone-12-pro)
 * [Future Features](#future-features)
@@ -182,7 +177,7 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
   
 ![Color Blind Safe Check](assets/documentation/cb_safe.png)
   
-### **Font/Typography**  
+### **Typography**  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
   
