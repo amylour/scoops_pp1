@@ -64,6 +64,7 @@ header {
 
 /* hero-image */
 
+/* Diagonal stripes styling adapted from - https://dev.to/snkds/how-to-create-striped-backgrounds-with-css-5dfn */
 #hero-stripes {
     width: 100%;
     height: 600px;
@@ -274,7 +275,7 @@ header {
 }
 
 /* menu page */
-
+/* code acquired from stackoverflow to fix bug - https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements */
 .menu-items > li:not(:first-child) {
     margin-top: 1em;
 }
