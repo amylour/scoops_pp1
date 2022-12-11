@@ -13,14 +13,13 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 ## CONTENTS  
   
 * [UXD (User Experience Design)](#user-experience-ux)
-  * [User Stories](#user-stories)
+  * [User Stories](#user-stories) 
 * [Creation process (Strategy -> Surface)](#creation-process)
   * [Wireframes](#wireframes)
 * [Design](#design)
   * [Colour Scheme](#color-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-     
 * [Page Features](#page-features)
   * [Navbar](#navbar)
   * [Hero-Image](#hero-image)
@@ -36,7 +35,7 @@ SCOOPS Ice-Cream Parlour is a family run, local business in Mullingar, Co.Westme
 * [Future Features](#future-features)
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworkslibrariesprograms-used)
+  * [Frameworks, Libraries, Technologies & Programs Used](#frameworks-libraries-technologies--programs-used)
 * [Deployment](#deployment)
   * [How to deploy](#how-to-deploy)
 * [Testing](#testing)
@@ -347,7 +346,9 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
 - Huawei AD80HW 24" Monitor
 - i Pad Pro 2021
 - iPhone SE(2016)
-- Huawei p30 Lite  
+- Huawei p30 Lite 
+- iPhone 11/13
+- Samsung Galaxy s10 
   
 ### **Testing**    
 
@@ -375,9 +376,14 @@ The results of feature testing are as follows:
 | Contact | Contact form required elements are responsive | Pass |
 | Contact | Form submit button brings you to validation page | Pass |
 | Contact | Google Map is interactive and opens in new tab for larger map | Pass |
-  
 
-  
+Further device testing took place in Dev Tools on:
+  - iPhone 4/5/6/7/8
+  - iPhone XR/ iPhone 12 Pro
+  - Pixel 5
+  - Samsung galaxy s20
+
+ 
 ### **HTML Validation using W3C Validation**  
 <details open>
 <summary>Index/landing page HTML validation</summary>  
