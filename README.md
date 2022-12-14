@@ -6,7 +6,7 @@ SCOOPS Ice-Cream Parlour is a family-run, local business in Mullingar, Co.Westme
 
 <br>  
   
-![screenshot of landing page](assets/documentation/readme_img1.png)
+![screenshot of landing page](docs/documentation/readme_img1.png)
 
 ---
 
@@ -130,27 +130,27 @@ The site was developed to be simple, clear, and familiar.
 <details open>
 <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](assets/documentation/homemd_wireframe.png)
+![homepage wireframe-mobile & desktop](docs/documentation/homemd_wireframe.png)
 </details> 
 <details >
 <summary>Wireframe - Menu page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](assets/documentation/menudesktop_wireframe.png)
+![homepage wireframe-mobile & desktop](docs/documentation/menudesktop_wireframe.png)
 </details> 
 <details>
 <summary>Wireframe - Menu page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](assets/documentation/menumobile_wireframe.png)
+![homepage wireframe-mobile & desktop](docs/documentation/menumobile_wireframe.png)
 </details>    
 <details>
 <summary>Wireframe - Contact page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](assets/documentation/contactdesktop_wireframe.png)
+![homepage wireframe-mobile & desktop](docs/documentation/contactdesktop_wireframe.png)
 </details> 
 <details>
 <summary>Wireframe - Contact page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](assets/documentation/contactmobile_wireframe.png)
+![homepage wireframe-mobile & desktop](docs/documentation/contactmobile_wireframe.png)
 </details>              
 
 ### **5. Surface**  
@@ -172,21 +172,21 @@ Overall, the design was intended and created to foster the emotional and familia
 
 This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
   
-![colour theme swatches](assets/documentation/colourtheme.png)  
+![colour theme swatches](docs/documentation/colourtheme.png)  
   
 I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
   
-![Colour contrast ratio for buttons](assets/documentation/buttoncontrast.png)  
+![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)  
   
 [Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
   
-![Color Blind Safe Check](assets/documentation/cb_safe.png)
+![Color Blind Safe Check](docs/documentation/cb_safe.png)
   
 ### **Typography**  
   
 [Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
   
-![google Fonts Josefin Sans](assets/documentation/josefinfont.png)
+![google Fonts Josefin Sans](docs/documentation/josefinfont.png)
 
         
 ### **Imagery**  
@@ -202,7 +202,7 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 <details open>
 <summary></summary>  
 
-![screenshot of navbar](assets/documentation/navbar.png) 
+![screenshot of navbar](docs/documentation/navbar.png) 
 </details>
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
   
@@ -212,7 +212,7 @@ This remains the same across the three pages, in portrait/landscape and mobile/t
 <details open>  
 <summary></summary>
 
-![screenshot of hero image](assets/documentation/heroimage.png)  
+![screenshot of hero image](docs/documentation/heroimage.png)  
 </details>
 The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
 
@@ -222,7 +222,7 @@ The hero image remains the same across all devices, with it becoming square-shap
 <details open>
 <summary></summary> 
 
-![screenshot of tagline and button](assets/documentation/tagline.png)  
+![screenshot of tagline and button](docs/documentation/tagline.png)  
 </details>
 The tagline image has its opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
 
@@ -232,11 +232,11 @@ The tagline image has its opacity set to allow the hero image to still show thro
 <details> 
 <summary></summary>
 
-![screenshot of ethos and images](assets/documentation/aboutus.png)  
+![screenshot of ethos and images](docs/documentation/aboutus.png)  
 
-![screenshot of ethos and images](assets/documentation/dairy.png)  
+![screenshot of ethos and images](docs/documentation/dairy.png)  
 
-![screenshot ethos and images](assets/documentation/hereortogo.png)  
+![screenshot ethos and images](docs/documentation/hereortogo.png)  
 </details>
 Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.  
 
@@ -246,7 +246,7 @@ Small portions of text with clear headings are accompanied by striking images th
 <details>
 <summary></summary> 
 
-![screenshot of menu page](assets/documentation/menu.png)  
+![screenshot of menu page](docs/documentation/menu.png)  
 </details>
 The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
 
@@ -256,7 +256,7 @@ The striped design occupies the whole page, with off-white backgrounds styled wi
 <details>
 <summary></summary> 
  
-![screenshot of contact us page](assets/documentation/contact_page.png)  
+![screenshot of contact us page](docs/documentation/contact_page.png)  
 </details>
 Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
 
@@ -266,7 +266,7 @@ Similar to the menu page design. Two sections for contacting the business with a
 <details>
 <summary></summary>
 
-![screenshot of footer](assets/documentation/footer.png) 
+![screenshot of footer](docs/documentation/footer.png) 
 </details>
 The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
 
@@ -281,12 +281,12 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
   
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
   
-![screenshots of SCOOPS website on ipad pro](assets/documentation/tablet_view.png)
+![screenshots of SCOOPS website on ipad pro](docs/documentation/tablet_view.png)
 
 
 ### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**  
   
-![screenshot of SCOOPS website on iPhone 12 Pro](assets/documentation/mobile_view.png)
+![screenshot of SCOOPS website on iPhone 12 Pro](docs/documentation/mobile_view.png)
 
 ---  
                               
@@ -338,7 +338,7 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-![screenshot of how to deploy site on github](assets/documentation/deployment.png) 
+![screenshot of how to deploy site on github](docs/documentation/deployment.png) 
 
 ---  
     
@@ -394,17 +394,17 @@ Further device testing took place in Dev Tools on:
 <details open>
 <summary>Index/landing page HTML validation</summary>  
 
-![screenshot of index page w3c html validation for SCOOPS](assets/documentation/w3c_index.png)
+![screenshot of index page w3c html validation for SCOOPS](docs/documentation/w3c_index.png)
 </details>   
 <details>
 <summary>Menu page HTML validation</summary>  
 
-![screenshot of menu page w3c html validation for SCOOPS](assets/documentation/w3c_menu.png)
+![screenshot of menu page w3c html validation for SCOOPS](docs/documentation/w3c_menu.png)
 </details>  
 <details>
 <summary>Contact page HTML validation</summary>  
 
-![screenshot of contact page w3c html validation for SCOOPS](assets/documentation/w3c_contact.png)
+![screenshot of contact page w3c html validation for SCOOPS](docs/documentation/w3c_contact.png)
 </details>  
   
 <br>  
@@ -414,7 +414,7 @@ Further device testing took place in Dev Tools on:
 <details open>
 <summary>SCOOPS CSS validation</summary>  
 
-![screenshot of CSS validation for SCOOPS](assets/documentation/w3c_css.png)
+![screenshot of CSS validation for SCOOPS](docs/documentation/w3c_css.png)
 </details>   
 
 <br>  
@@ -425,17 +425,17 @@ For Desktop
 <details open>
 <summary>Lighthouse audit for Index page</summary>  
 
-![screenshot of lighthouse audit for index page for SCOOPS](assets/documentation/lighthouse_index.png)
+![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/lighthouse_index.png)
 </details> 
 <details >
 <summary>Lighthouse audit for Menu page</summary>  
 
-![screenshot of lighthouse audit for menu page for SCOOPS](assets/documentation/lighthouse_menu.png)
+![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/lighthouse_menu.png)
 </details>
 <details >
 <summary>Lighthouse audit for Contact page</summary>  
 
-![screenshot of lighthouse audit for contact page for SCOOPS](assets/documentation/lighthouse_contact.png)
+![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/lighthouse_contact.png)
 </details>      
 
 <br>
@@ -444,17 +444,17 @@ For Mobile
 <details open>
 <summary>Lighthouse audit for Index page - Mobile</summary>  
 
-![screenshot of lighthouse audit for index page for SCOOPS](assets/documentation/mobileindex_lighthouse.png)
+![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/mobileindex_lighthouse.png)
 </details> 
 <details >
 <summary>Lighthouse audit for Menu page - Mobile</summary>  
 
-![screenshot of lighthouse audit for menu page for SCOOPS](assets/documentation/mobilemenu_lighthouse.png)
+![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/mobilemenu_lighthouse.png)
 </details>
 <details >
 <summary>Lighthouse audit for Contact page - Mobile</summary>  
 
-![screenshot of lighthouse audit for contact page for SCOOPS](assets/documentation/mobilecontact_lighthouse.png)
+![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/mobilecontact_lighthouse.png)
 </details>      
   
   
