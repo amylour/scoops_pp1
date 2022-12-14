@@ -92,12 +92,14 @@ header {
     background: url('../images/icecreamcounter.jpg') no-repeat center center;
     position: absolute;
     /* animates zoom effect on index page */
+    /* Code adapted from Code Institutes Love Running Project hero-image zoom */
     animation-name: hero-zoom;
     animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 
 /* creates the level of zoom for hero image */
+/* Code adapted from Code Institutes Love Running Project hero-image zoom */
 @keyframes hero-zoom {
     from {
         transform: scale(1);
